@@ -17,7 +17,7 @@ def main():
     for item in listing:
         dir_char = 'd' if os.path.isdir(BASE_DIR + '/' + item) else ' '
         valid_char = ' ' if is_valid(item) else '*'
-        label = f'{dir_char} {item}'
+        label = f'{dir_char}{valid_char} {item}'
         print(label)
 
 
