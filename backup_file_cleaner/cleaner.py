@@ -20,10 +20,12 @@ class Crawler:
         self.counter = 0
 
     def _crawl(self, directory):
+        if directory.endswith('@eaDir'):
+            return
         listing = os.listdir(directory)
         for item in listing:
             if self.counter % COUNT_INTERVAL == 0:
-                print(f'{self.counter} {datetime.now()}')
+                print(f'*{self.counter} {datetime.now()}')
             self.counter += 1
             path = directory + '/' + item
             if os.path.isdir(path):
