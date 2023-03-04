@@ -32,7 +32,10 @@ class Crawler:
                 print(f'  {path}')
 
     def crawl(self):
-        self._crawl(self.root)
+        try:
+            self._crawl(self.root)
+        except Exception as e:
+            print(e)
 
 
 def main():
