@@ -32,8 +32,8 @@ class Crawler:
                 self._crawl(path)
             if not is_valid(item):
                 print(path)
-            if os.path.islink(path):
-                print(f'>>{path}')
+            # if os.path.islink(path):
+            #     print(f'>>{path}')
 
     def crawl(self):
         try:
