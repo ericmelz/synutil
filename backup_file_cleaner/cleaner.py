@@ -40,6 +40,7 @@ class Crawler:
 
 def main():
     Crawler(BASE_DIR).crawl()
+    print('Done!')
 
 
 if __name__ == '__main__':
