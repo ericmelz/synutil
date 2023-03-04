@@ -19,7 +19,7 @@ class Crawler:
         self.counter = 0
 
     def _crawl(self, directory):
-        print(f'Crawling {dir()}')
+        print(f'Crawling {directory}')
         listing = os.listdir(directory)
         for item in listing:
             if self.counter % COUNT_INTERVAL == 0:
