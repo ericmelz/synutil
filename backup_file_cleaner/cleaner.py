@@ -2,8 +2,8 @@ import os
 import re
 
 #BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/voldemort_emails'
-BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes'
-COUNT_INTERVAL = 10
+BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn'
+COUNT_INTERVAL = 100
 
 
 def is_valid(name):
