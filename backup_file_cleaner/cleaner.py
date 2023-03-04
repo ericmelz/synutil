@@ -3,9 +3,8 @@ import os
 import re
 
 #BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/voldemort_emails'
-#BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes'
-BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn'
-COUNT_INTERVAL = 10000
+BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs'
+COUNT_INTERVAL = 100000
 
 
 def is_valid(name):
@@ -21,7 +20,6 @@ class Crawler:
         self.counter = 0
 
     def _crawl(self, directory):
-        # print(f'Crawling {directory}')
         listing = os.listdir(directory)
         for item in listing:
             if self.counter % COUNT_INTERVAL == 0:
@@ -31,9 +29,7 @@ class Crawler:
             if os.path.isdir(path):
                 self._crawl(path)
             if not is_valid(item):
-                print(f'  *{path}')
-            # else:
-            #     print(f'   {path}')
+                print(path)
 
     def crawl(self):
         try:
