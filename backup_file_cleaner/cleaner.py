@@ -6,6 +6,8 @@ BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/
 
 
 def is_valid(name):
+    if name.endswith('@SynoResource'):
+        return True
     pattern = r'[\/:*?"><|]'
     return not re.search(pattern, name)
 
