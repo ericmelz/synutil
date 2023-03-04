@@ -3,8 +3,8 @@ import os
 import re
 
 #BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/voldemort_emails'
-BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs'
-COUNT_INTERVAL = 100000
+BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type'
+COUNT_INTERVAL = 1000000
 
 
 def is_valid(name):
