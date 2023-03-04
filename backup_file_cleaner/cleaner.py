@@ -1,8 +1,8 @@
 import os
 import re
 
-BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/voldemort_emails'
-# BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes'
+#BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/voldemort_emails'
+BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes'
 
 
 def is_valid(name):
@@ -14,7 +14,6 @@ def is_valid(name):
 
 def crawl(directory):
     listing = os.listdir(directory)
-    print(f'Files and directories:')
     for item in listing:
         path = BASE_DIR + '/' + item
         if os.path.isdir(path):
