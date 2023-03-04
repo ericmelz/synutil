@@ -22,18 +22,25 @@ class Crawler:
     def _crawl(self, directory):
         if directory.endswith('@eaDir'):
             return
-        listing = os.listdir(directory)
+        try:
+            listing = os.listdir(directory)
+        except Exception as e:
+            print(e)
+            return
         for item in listing:
-            if self.counter % COUNT_INTERVAL == 0:
-                print(f'*{self.counter} {datetime.now()}')
-            self.counter += 1
-            path = directory + '/' + item
-            if os.path.isdir(path):
-                self._crawl(path)
-            if not is_valid(item):
-                print(path)
-            # if os.path.islink(path):
-            #     print(f'>>{path}')
+            try:
+                if self.counter % COUNT_INTERVAL == 0:
+                    print(f'*{self.counter} {datetime.now()}')
+                self.counter += 1
+                path = directory + '/' + item
+                if os.path.isdir(path):
+                    self._crawl(path)
+                if not is_valid(item):
+                    print(path)
+                # if os.path.islink(path):
+                #     print(f'>>{path}')
+            except Exception as e:
+                print(e)
 
     def crawl(self):
         try:
