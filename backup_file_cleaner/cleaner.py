@@ -30,7 +30,9 @@ class Crawler:
             if os.path.isdir(path):
                 self._crawl(path)
             if not is_valid(item):
-                print(f'  {path}')
+                print(f'  *{path}')
+            else:
+                print(f'   {path}')
 
     def crawl(self):
         try:
