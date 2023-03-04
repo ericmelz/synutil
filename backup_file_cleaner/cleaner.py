@@ -5,9 +5,14 @@ BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/
 
 def main():
     print("hey")
-    dir_list = os.listdir(BASE_DIR)
+    listing = os.listdir(BASE_DIR)
     print(f'Files and directories:')
-    print(dir_list)
+    for item in listing:
+        isdir = os.path.isdir(BASE_DIR + '.' + item)
+        dir_char = 'd' if isdir else ' '
+        label = f'{dir_char}{item}'
+        print(item)
+
 
 
 if __name__ == '__main__':
