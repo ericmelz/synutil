@@ -11,8 +11,7 @@ def main():
         isdir = os.path.isdir(BASE_DIR + '.' + item)
         dir_char = 'd' if isdir else ' '
         label = f'{dir_char}{item}'
-        print(item)
-
+        print(label)
 
 
 if __name__ == '__main__':
