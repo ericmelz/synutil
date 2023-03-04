@@ -1,3 +1,4 @@
+from datetime import datetime()
 import os
 import re
 
@@ -24,7 +25,7 @@ class Crawler:
         listing = os.listdir(directory)
         for item in listing:
             if self.counter % COUNT_INTERVAL == 0:
-                print(self.counter)
+                print(f'{self.counter} {datetime.now()}')
             self.counter += 1
             path = directory + '/' + item
             if os.path.isdir(path):
