@@ -7,7 +7,7 @@ BASE_DIR = '/volume1/homes/eric/_Documents/_Records/By Type/Jobs/LinkedIn/notes/
 
 def is_valid(name):
     pattern = r'[\/:*?"><|]'
-    return re.search(pattern, name)
+    return not re.search(pattern, name)
 
 
 def main():
