@@ -9,7 +9,7 @@ def main():
     listing = os.listdir(BASE_DIR)
     print(f'Files and directories:')
     for item in listing:
-        isdir = os.path.isdir(BASE_DIR + '.' + item)
+        isdir = os.path.isdir(BASE_DIR + '/' + item)
         dir_char = 'd' if isdir else ' '
         label = f'{dir_char}{item}'
         print(label)
