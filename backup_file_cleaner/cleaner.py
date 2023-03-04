@@ -26,7 +26,7 @@ class Crawler:
             # if self.counter % COUNT_INTERVAL == 0:
             #     print(self.counter)
             # self.counter += 1
-            path = self.root + '/' + item
+            path = directory + '/' + item
             if os.path.isdir(path):
                 self._crawl(path)
             if not is_valid(item):
