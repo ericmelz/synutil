@@ -20,7 +20,7 @@ class Crawler:
         self.counter = 0
 
     def _crawl(self, directory):
-        print(f'Crawling {directory}')
+        # print(f'Crawling {directory}')
         listing = os.listdir(directory)
         for item in listing:
             # if self.counter % COUNT_INTERVAL == 0:
@@ -31,8 +31,8 @@ class Crawler:
                 self._crawl(path)
             if not is_valid(item):
                 print(f'  *{path}')
-            else:
-                print(f'   {path}')
+            # else:
+            #     print(f'   {path}')
 
     def crawl(self):
         try:
