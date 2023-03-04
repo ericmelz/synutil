@@ -42,7 +42,7 @@ class Crawler:
 
 def main():
     Crawler(BASE_DIR).crawl()
-    print(f'Done! {datetime.now()}')
+    print(f'*Done! {datetime.now()}')
 
 
 if __name__ == '__main__':
