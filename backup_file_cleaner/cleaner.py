@@ -10,15 +10,19 @@ def is_valid(name):
     return not re.search(pattern, name)
 
 
-def main():
-    print("hey")
-    listing = os.listdir(BASE_DIR)
+def crawl(directory):
+    listing = os.listdir(directory)
     print(f'Files and directories:')
     for item in listing:
-        dir_char = 'd' if os.path.isdir(BASE_DIR + '/' + item) else ' '
-        valid_char = ' ' if is_valid(item) else '*'
-        label = f'{dir_char}{valid_char} {item}'
-        print(label)
+        path = BASE_DIR + '/' + item
+        if os.path.isdir(path):
+            crawl(path)
+        if not is_valid(item):
+            print(path)
+
+
+def main():
+    crawl(BASE_DIR)
 
 
 if __name__ == '__main__':
