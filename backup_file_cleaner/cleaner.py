@@ -16,7 +16,7 @@ def main():
     print(f'Files and directories:')
     for item in listing:
         dir_char = 'd' if os.path.isdir(BASE_DIR + '/' + item) else ' '
-        valid_char = ' ' if is_valid(item) else '*'
+        valid_char = ' ' if is_valid(str(item)) else '*'
         label = f'{dir_char}{valid_char} {item}'
         print(label)
 
