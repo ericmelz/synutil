@@ -3,6 +3,21 @@ import re
 import shutil
 from collections import Counter
 
+"""
+Notes:
+This copies files to a temporary dir, organized by year
+These year directories can be merged with corresponding diskstation directories
+by opening the src and dest finder window and dragging "{year}/Receipts" onto the corresponding ds year folder
+Future implementation can copy to ds directly
+After executing
+
+rm -rf ${DEST_DIR} 
+
+Remove local receipts
+In local $SRC_DIR
+find ./ -name "*.pdf" -exec rm {} \;
+"""
+
 SRC_DIR = '/Users/emelz/Desktop/for filing/Receipts'
 DEST_DIR = '/tmp/receiptdemo'
 
