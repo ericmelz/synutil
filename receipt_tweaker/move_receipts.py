@@ -18,7 +18,7 @@ In local $SRC_DIR
 find ./ -name "*.pdf" -exec rm {} \;
 """
 
-SRC_DIR = '/Users/emelz/Desktop/for filing/Receipts'
+SRC_DIR = '/Users/ericmelz/Desktop/For Filing/Receipts'
 DEST_DIR = '/tmp/receiptdemo'
 
 
