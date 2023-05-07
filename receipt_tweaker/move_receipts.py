@@ -2,6 +2,7 @@ import os
 import re
 import shutil
 from collections import Counter
+from datetime import datetime
 
 """
 Notes:
@@ -14,12 +15,12 @@ After executing
 rm -rf ${DEST_DIR} 
 
 Remove local receipts
-In local $SRC_DIR
-find ./ -name "*.pdf" -exec rm {} \;
+find '/Users/ericmelz/Desktop/For Filing/Receipts' -name "*.pdf" -exec rm {} \;
 """
 
 SRC_DIR = '/Users/ericmelz/Desktop/For Filing/Receipts'
-DEST_DIR = '/tmp/receiptdemo'
+#DEST_DIR = '/tmp/receiptdemo'
+DEST_DIR = '/Volumes/home/_Documents/_Records/_By Year'
 
 
 def transfer():
@@ -44,7 +45,8 @@ def transfer():
                 l1_prefix = relative_path.split('/')[0]
                 prefix_counter.update([relative_path])
                 l1_prefix_counter.update([l1_prefix])
-                dest_path_prefix = os.path.join(DEST_DIR, year, 'Receipts', relative_path)
+                dest_year_prefix = '_' if year == str(datetime.now().year) else ''
+                dest_path_prefix = os.path.join(DEST_DIR, f'{dest_year_prefix}{year}', 'Receipts', relative_path)
                 if not os.path.exists(dest_path_prefix):
                     os.makedirs(dest_path_prefix)
                 dest_path = os.path.join(dest_path_prefix, name)
