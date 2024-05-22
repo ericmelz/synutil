@@ -38,6 +38,7 @@ class MyTestCase(unittest.TestCase):
 
         result, file1, file2 = self.find_case_insensitive_duplicates("/music")
         assert result, f"Files {file1} and {file2} are the same except for case"
+        print('{file1=}, {file2=}')
 
 
 if __name__ == '__main__':
