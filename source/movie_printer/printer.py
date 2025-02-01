@@ -8,7 +8,8 @@ from reportlab.lib.pagesizes import letter, landscape, portrait
 from reportlab.lib.units import inch
 
 
-DIRECTORY = "/Users/ericmelz/Data/code/synutil/tests/movie_printer/test_dir"
+# DIRECTORY = "/Users/ericmelz/Data/code/synutil/tests/movie_printer/test_dir"
+DIRECTORY = "/Volumes/video/movies/"
 OUTPUT_PDF = "/Users/ericmelz/Downloads/movie_list.pdf"
 NUM_COLUMNS = 3
 FONT_NAME = "Helvetica"
@@ -39,6 +40,7 @@ def get_movie_titles(directory):
     """
     Return a sort list of cleaned movie titles from the given directory
     """
+    print("Getting movie titles...")
     all_dirs = os.listdir(directory)
     titles = [clean_title(f) for f in all_dirs if os.path.isdir(os.path.join(directory, f))]
     return sorted(titles, key=lambda s: s.lower())
@@ -48,6 +50,7 @@ def generate_pdf(titles, output_pdf):
     """
     Generate a PDF with the movie titles in multiple columns.
     """
+    print("Generating...")
     # Use landscape letter page size for more horizontal space
     # page_width, page_height = landscape(letter)
     page_width, page_height = portrait(letter)
@@ -86,7 +89,6 @@ def generate_pdf(titles, output_pdf):
             y = page_height - top_margin
 
         x = x_positions[current_col]
-        print(f"Drawing '{title}' at x: {x}, y: {y}")  # Debug: print coordinates and title
         c.drawString(x, y, title)
         y -= line_height
 
