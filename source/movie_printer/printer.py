@@ -1,10 +1,12 @@
-# Prints movie titles to PDF.  Based on
-# https://chatgpt.com/share/679e7f00-3788-8001-84fb-5ae508c22c4f
+"""
+Prints movie titles to PDF.  Based on
+https://chatgpt.com/share/679e7f00-3788-8001-84fb-5ae508c22c4f
+"""
 
 import os
 import re
 from reportlab.pdfgen import canvas
-from reportlab.lib.pagesizes import letter, landscape, portrait
+from reportlab.lib.pagesizes import letter, portrait
 from reportlab.lib.units import inch
 
 
@@ -42,7 +44,9 @@ def get_movie_titles(directory):
     """
     print("Getting movie titles...")
     all_dirs = os.listdir(directory)
-    titles = [clean_title(f) for f in all_dirs if os.path.isdir(os.path.join(directory, f))]
+    titles = [
+        clean_title(f) for f in all_dirs if os.path.isdir(os.path.join(directory, f))
+    ]
     return sorted(titles, key=lambda s: s.lower())
 
 
@@ -93,10 +97,11 @@ def generate_pdf(titles, output_pdf):
         y -= line_height
 
     c.save()
-    print(f'PDF saved as: {output_pdf}')
+    print(f"PDF saved as: {output_pdf}")
 
 
 def main():
+    """Main function"""
     titles = get_movie_titles(DIRECTORY)
     if not titles:
         print(f"No movie directories found in {DIRECTORY}")
@@ -104,5 +109,5 @@ def main():
     generate_pdf(titles, OUTPUT_PDF)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
