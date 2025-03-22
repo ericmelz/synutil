@@ -13,6 +13,5 @@ elapsed=$((end-start))
 mb=$(du -sm "$SOURCE" | awk '{print $1}')
 mb_s=$(echo "scale=2; $mb/$elapsed" | bc)
 echo "Elapsed: $elapsed seconds"
-echo "Bytes: $bytes"
 echo "MB: $mb"
 echo "Transfer speed: $mb_s MB/s"
