@@ -7,6 +7,8 @@ Two lists are compared:
 import csv
 import dataclasses
 import json
+import os
+import re
 from dataclasses import dataclass
 from time import sleep  # Add this import at the top with other imports
 from typing import Dict, Any
@@ -15,6 +17,8 @@ from typing import List
 import requests
 from pydantic_settings import BaseSettings
 
+
+MY_MOVIE_DIR = '/Volumes/video-1/movies'
 
 class Settings(BaseSettings):
     omdb_api_key: str = ""
@@ -130,6 +134,19 @@ def read_movies_jsonl(jsonl_file: str) -> List[Movie]:
     return movies
 
 
+def find_mine_missing_imdb() -> None:
+    outFile = '/Users/ericmelz/Data/code/synutil/source/movie_finder/data/mine_needs_imdb.csv'
+    pattern = re.compile(r".*\{imdb-([^}]+)\}")
+    needs_imdb = []
+    for filename in os.listdir(MY_MOVIE_DIR):
+        match = pattern.match(filename)
+        if not match:
+            needs_imdb.append(filename)
+    with open(outFile, 'w', encoding='utf-8') as f:
+        for filename in needs_imdb:
+            f.write(filename + '\n')
+
+
 def example1():
     json_str = '''{"Title":"The Boys from Brazil","Year":"1978","Rated":"R","Released":"06 Oct 1978","Runtime":"125 min","Genre":"Drama, Mystery, Sci-Fi","Director":"Franklin J. Schaffner","Writer":"Ira Levin, Heywood Gould","Actors":"Gregory Peck, Laurence Olivier, James Mason","Plot":"A Nazi hunter in Paraguay discovers a sinister and bizarre plot to rekindle the Third Reich.","Language":"English, Spanish","Country":"United Kingdom, United States","Awards":"Nominated for 3 Oscars. 2 wins & 13 nominations total","Poster":"https://m.media-amazon.com/images/M/MV5BMjI4ZTFjZGMtNjUyOS00Y2FiLTkwNWMtZGViNjgzODQ0NzIwXkEyXkFqcGc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.0/10"},{"Source":"Rotten Tomatoes","Value":"70%"},{"Source":"Metacritic","Value":"40/100"}],"Metascore":"40","imdbRating":"7.0","imdbVotes":"32,238","imdbID":"tt0077269","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}'''
     data = json.loads(json_str)
@@ -214,5 +231,31 @@ def example5():
     print(f"Wrote {len(new_movies)} records to {out_path}")
 
 
+def example6():
+    find_mine_missing_imdb()
+
+
+def example7():
+    settings = Settings()
+    movies = fetch_all_movies('/Users/ericmelz/Data/code/synutil/source/movie_finder/data/'
+                              'mine_needs_imdb_cleaned.csv', settings)
+    # Print or process the results
+    for movie in movies:
+        print(f"\nTitle: {movie.Title}")
+        print(f"Year: {movie.Year}")
+        print(f"IMDB Rating: {movie.imdbRating}")
+
+    # open the JSONL output file for writing
+    out_path = '/Users/ericmelz/Data/code/synutil/source/movie_finder/data/mine_needs_imdb.jsonl'
+    with open(out_path, 'w', encoding='utf-8') as out_f:
+        for movie in movies:
+            # convert dataclass (with nested Ratings) to plain dict
+            movie_dict = dataclasses.asdict(movie)
+            # write as a single JSON line
+            out_f.write(json.dumps(movie_dict, ensure_ascii=False) + "\n")
+
+    print(f"Wrote {len(movies)} records to {out_path}")
+
+
 if __name__ == '__main__':
-    example5()
+    example7()

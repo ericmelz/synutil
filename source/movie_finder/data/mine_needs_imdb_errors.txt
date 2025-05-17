@@ -1,0 +1,83 @@
+Error fetching data for 101 Dalmations: OMDb error: Movie not found!
+Error fetching data for 2001 A Space Oddyssey: OMDb error: Movie not found!
+Error fetching data for 3 10 to Yuma: OMDb error: Movie not found!
+Error fetching data for A Very Harold and Kumar Christmas: OMDb error: Movie not found!
+Error fetching data for Aliens Vs. Predator Requiem: OMDb error: Movie not found!
+Error fetching data for Almost Famous Director's Edition: OMDb error: Movie not found!
+Error fetching data for Apocalpyse Now Redux: OMDb error: Movie not found!
+Error fetching data for Bad Boys (1983): OMDb error: Movie not found!
+Error fetching data for Batman The Dark Knight Rises: OMDb error: Movie not found!
+Error fetching data for Batman and Superman Battle of the Super Sons: OMDb error: Movie not found!
+Error fetching data for Ben Hur: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Error fetching data for Bill and Ted's Bogus Journey: OMDb error: Movie not found!
+Error fetching data for Can Can (1960): OMDb error: Movie not found!
+Error fetching data for Charlotte's Web (2006): OMDb error: Movie not found!
+Error fetching data for Cheech and Chong Hey Watch This: OMDb error: Movie not found!
+Error fetching data for Cidade de Deus (City of God): OMDb error: Movie not found!
+Error fetching data for Comedian - Jerry Seinfield: OMDb error: Movie not found!
+Error fetching data for Daredevil: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Error fetching data for Disney's Duck Tales Daredevil Ducks: OMDb error: Movie not found!
+Error fetching data for Disney's Duck Tales Fearless Fortune Hunter: OMDb error: Movie not found!
+Error fetching data for Disney's Duck Tales High-Flying Hero: OMDb error: Movie not found!
+Error fetching data for Fitcarraldo: OMDb error: Movie not found!
+Error fetching data for Game Changer - The Dennis Murphy Story: OMDb error: Movie not found!
+Error fetching data for Gumby: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Error fetching data for How The Grinch Stole Christmas (2000): OMDb error: Movie not found!
+Error fetching data for How the Grinch Stole Christmas! (1966): OMDb error: Movie not found!
+Error fetching data for How to Lose Friends and Alienate People: OMDb error: Movie not found!
+Error fetching data for Inception {edition-Director's Cut}: OMDb error: Movie not found!
+Error fetching data for Its a Mad Mad Mad Mad World: OMDb error: Movie not found!
+Error fetching data for Jackass 2: OMDb error: Movie not found!
+Error fetching data for Jackass 3: OMDb error: Movie not found!
+Error fetching data for James Bond - Casino Royale: OMDb error: Movie not found!
+Error fetching data for James Bond The Spy Who Loved me: OMDb error: Movie not found!
+Error fetching data for James Bond Tomorrow Never Dies: OMDb error: Movie not found!
+Error fetching data for Jerry Buss Talks Sports: OMDb error: Movie not found!
+Error fetching data for Johnny Carson King of Late Night: OMDb error: Movie not found!
+Error fetching data for Julie and Julia: OMDb error: Movie not found!
+Error fetching data for Lilo and Stitch: OMDb error: Movie not found!
+Error fetching data for M8U4TX~M: OMDb error: Movie not found!
+Error fetching data for Mall Rats: OMDb error: Movie not found!
+Error fetching data for Maxed Out on Credit: OMDb error: Movie not found!
+Error fetching data for Ocean's 12: OMDb error: Movie not found!
+Error fetching data for Ocean's 13: OMDb error: Movie not found!
+Error fetching data for Pirates of the Carribean: OMDb error: Movie not found!
+Error fetching data for Planet of the Apes (2001): OMDb error: Movie not found!
+Error fetching data for Porky's 2: OMDb error: Movie not found!
+Error fetching data for Porky's 3: OMDb error: Movie not found!
+Error fetching data for Revenge of the Nerds 2: OMDb error: Movie not found!
+Error fetching data for Revenge of the Nerds 3: OMDb error: Movie not found!
+Error fetching data for Revenge of the Nerds 4: OMDb error: Movie not found!
+Error fetching data for Rocky I: OMDb error: Movie not found!
+Error fetching data for Rocky VI Balboa: OMDb error: Movie not found!
+Error fetching data for Scary Movie 5: OMDb error: Movie not found!
+Error fetching data for Shaft (1971): OMDb error: Movie not found!
+Error fetching data for Shag with a Twist: OMDb error: Movie not found!
+Error fetching data for Sir David Frost Watergate Interviews - Richard Nixon: OMDb error: Movie not found!
+Error fetching data for South Park Bigger Longer and Uncut: OMDb error: Movie not found!
+Error fetching data for Star Trek Wrath of Khan: OMDb error: Movie not found!
+Error fetching data for Star Wars II - Attack of the Clones: OMDb error: Movie not found!
+Error fetching data for Star Wars IV - A New Hope: OMDb error: Movie not found!
+Error fetching data for Star Wars V - The Empire Strikes Back: OMDb error: Movie not found!
+Error fetching data for Star Wars VI - Return of the Jedi: OMDb error: Movie not found!
+Error fetching data for Star Wars VII - The Clone Wars: OMDb error: Movie not found!
+Error fetching data for Stargaze: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Error fetching data for Superman IV The Quest for Peace (1987): OMDb error: Movie not found!
+Error fetching data for Superman Returns (2006): OMDb error: Movie not found!
+Error fetching data for Superman The Movie (1978): OMDb error: Movie not found!
+Error fetching data for Swordfish (2001): OMDb error: Movie not found!
+Error fetching data for Teenage Mutant Ninja Turtles - Heroes in a Halfshell: OMDb error: Movie not found!
+Error fetching data for Teenage Mutant Ninja Turtles - The Shredder is Splintered: OMDb error: Movie not found!
+Error fetching data for Terminator II - Judgement Day: OMDb error: Movie not found!
+Error fetching data for Terminator III - The Rise of the Machines: OMDb error: Movie not found!
+Error fetching data for Terminator IV - Terminator Salvation: OMDb error: Movie not found!
+Error fetching data for The Adventures of Rocky and Bullwinkle: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Error fetching data for The Godfather Part I: OMDb error: Movie not found!
+Error fetching data for The Hangover 2: OMDb error: Movie not found!
+Error fetching data for The Incredibles 2: OMDb error: Movie not found!
+Error fetching data for The Rookie: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Error fetching data for The Treasure of Sierra Madre: OMDb error: Movie not found!
+Error fetching data for W: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Error fetching data for Watchmen Ultimate Cut: OMDb error: Movie not found!
+Error fetching data for Women Space Pioneers: OMDb error: Movie not found!
+Error fetching data for You Dont Mess with the Zohan: OMDb error: Movie not found!

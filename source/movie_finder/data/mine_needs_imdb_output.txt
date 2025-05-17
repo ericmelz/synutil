@@ -1,0 +1,3095 @@
+/Users/ericmelz/Data/venvs/movie_printer/bin/python3.11 /Users/ericmelz/Data/code/synutil/source/movie_finder/finder.py 
+Fetching data for: 101 Dalmations
+Error fetching data for 101 Dalmations: OMDb error: Movie not found!
+Fetching data for: 12 Monkeys
+Fetching data for: 127 Hours
+Fetching data for: 2001 A Space Oddyssey
+Error fetching data for 2001 A Space Oddyssey: OMDb error: Movie not found!
+Fetching data for: 2012
+Fetching data for: 3 10 to Yuma
+Error fetching data for 3 10 to Yuma: OMDb error: Movie not found!
+Fetching data for: 8 Mile
+Fetching data for: A Clockwork Orange
+Fetching data for: A League of Their Own
+Fetching data for: A Night at the Roxbury
+Fetching data for: A Very Harold and Kumar Christmas
+Error fetching data for A Very Harold and Kumar Christmas: OMDb error: Movie not found!
+Fetching data for: A View to a Kill
+Fetching data for: Accepted
+Fetching data for: Across the Universe
+Fetching data for: Airheads
+Fetching data for: Airplane!
+Fetching data for: Alfie
+Fetching data for: Ali
+Fetching data for: Alice in Wonderland
+Fetching data for: Aliens Special Edition
+Fetching data for: Aliens Vs. Predator Requiem
+Error fetching data for Aliens Vs. Predator Requiem: OMDb error: Movie not found!
+Fetching data for: All About Eve
+Fetching data for: All About the Benjamins
+Fetching data for: All Dogs Go To Heaven
+Fetching data for: All Dogs Go to Heaven 2
+Fetching data for: Almost Famous
+Fetching data for: Almost Famous Director's Edition
+Error fetching data for Almost Famous Director's Edition: OMDb error: Movie not found!
+Fetching data for: American Beauty
+Fetching data for: American Gangster
+Fetching data for: American Pie 2
+Fetching data for: American Wedding
+Fetching data for: An American Tail
+Fetching data for: Anaconda
+Fetching data for: Antitrust
+Fetching data for: Apocalpyse Now Redux
+Error fetching data for Apocalpyse Now Redux: OMDb error: Movie not found!
+Fetching data for: Apocalypto
+Fetching data for: Armageddon
+Fetching data for: Atonement
+Fetching data for: Austin Powers International Man of Mystery
+Fetching data for: Austin Powers the Spy Who Shagged Me
+Fetching data for: Australia
+Fetching data for: Avatar
+Fetching data for: Avengers Age of Ultron
+Fetching data for: Avengers Endgame
+Fetching data for: Avengers Infinity War
+Fetching data for: Babes in Toyland
+Fetching data for: Baby Mama
+Fetching data for: Back to the Future
+Fetching data for: Backdraft
+Fetching data for: Bad Boys (1983)
+Error fetching data for Bad Boys (1983): OMDb error: Movie not found!
+Fetching data for: Bad Boys (1995)
+Fetching data for: Bad Girls From Valley High
+Fetching data for: Bad Teacher
+Fetching data for: Badlands
+Fetching data for: Bao
+Fetching data for: Barbershop
+Fetching data for: Barry Lyndon
+Fetching data for: Basic Instinct
+Fetching data for: Batman
+Fetching data for: Batman Begins
+Fetching data for: Batman Returns
+Fetching data for: Batman The Dark Knight
+Fetching data for: Batman The Dark Knight Returns Part 2
+Fetching data for: Batman The Dark Knight Rises
+Error fetching data for Batman The Dark Knight Rises: OMDb error: Movie not found!
+Fetching data for: Batman and Superman Battle of the Super Sons
+Error fetching data for Batman and Superman Battle of the Super Sons: OMDb error: Movie not found!
+Fetching data for: Battlefield Earth
+Fetching data for: Be Cool
+Fetching data for: Bedazzled
+Fetching data for: Bee Movie
+Fetching data for: Ben Hur
+Error fetching data for Ben Hur: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Fetching data for: Beowulf
+Fetching data for: Best of Chris Farley
+Fetching data for: Best of Dana Carvey
+Fetching data for: Beverly Hills Cop
+Fetching data for: Beverly Hills Ninja
+Fetching data for: Big Daddy
+Fetching data for: Big Fat Liar
+Fetching data for: Big Fish
+Fetching data for: Big Momma's House 2
+Fetching data for: Bill and Ted's Bogus Journey
+Error fetching data for Bill and Ted's Bogus Journey: OMDb error: Movie not found!
+Fetching data for: Billy Madison
+Fetching data for: Bio-Dome
+Fetching data for: Black Swan
+Fetching data for: Blade
+Fetching data for: Blade II
+Fetching data for: Blade Runner
+Fetching data for: Blades of Glory
+Fetching data for: Blazing Saddles
+Fetching data for: Blue Streak
+Fetching data for: Body of Lies
+Fetching data for: Bolt
+Fetching data for: Boogie Nights
+Fetching data for: Breathless
+Fetching data for: Bridget Jones's Diary
+Fetching data for: Bring it On
+Fetching data for: Bruce Almighty
+Fetching data for: Bruno
+Fetching data for: Bull Durham
+Fetching data for: Bullitt
+Fetching data for: Burn after Reading
+Fetching data for: Butch Cassidy and the Sundance Kid
+Fetching data for: Cabaret
+Fetching data for: Caddyshack
+Fetching data for: Can Can (1960)
+Error fetching data for Can Can (1960): OMDb error: Movie not found!
+Fetching data for: Cars
+Fetching data for: Cars 2
+Fetching data for: Cars 3
+Fetching data for: Casablanca
+Fetching data for: Casino
+Fetching data for: Cast Away
+Fetching data for: Changeling
+Fetching data for: Charlie's Angels
+Fetching data for: Charlotte's Web (1973)
+Fetching data for: Charlotte's Web (2006)
+Error fetching data for Charlotte's Web (2006): OMDb error: Movie not found!
+Fetching data for: Cheech and Chong Hey Watch This
+Error fetching data for Cheech and Chong Hey Watch This: OMDb error: Movie not found!
+Fetching data for: Chicken Run
+Fetching data for: Children of Men
+Fetching data for: Chinatown
+Fetching data for: Cidade de Deus (City of God)
+Error fetching data for Cidade de Deus (City of God): OMDb error: Movie not found!
+Fetching data for: Citizen Kane
+Fetching data for: Clerks
+Fetching data for: Close Encounters of the 4th Kind - Infestation From Mars
+Fetching data for: Cloudy with a Chance of Meatballs
+Fetching data for: Cloverfield
+Fetching data for: Coco
+Fetching data for: Collateral Damage
+Fetching data for: Comedian - Jerry Seinfield
+Error fetching data for Comedian - Jerry Seinfield: OMDb error: Movie not found!
+Fetching data for: Conan O'Brien Can't Stop
+Fetching data for: Confessions of a Shopaholic
+Fetching data for: Contempt
+Fetching data for: Crazy Stupid Love
+Fetching data for: Cruel Intentions
+Fetching data for: Cyberworld
+Fetching data for: Dan in Real Life
+Fetching data for: Dances with Wolves
+Fetching data for: Daredevil
+Error fetching data for Daredevil: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Fetching data for: Dave
+Fetching data for: David Blaine Fearless
+Fetching data for: Dazed and Confused
+Fetching data for: Dead Poets Society
+Fetching data for: Deep Blue Sea
+Fetching data for: Deep Blue Sea 2
+Fetching data for: Deep Blue Sea 3
+Fetching data for: Deliverance
+Fetching data for: Dick Tracy
+Fetching data for: Die Hard
+Fetching data for: Die Hard 4
+Fetching data for: Disney's Duck Tales Daredevil Ducks
+Error fetching data for Disney's Duck Tales Daredevil Ducks: OMDb error: Movie not found!
+Fetching data for: Disney's Duck Tales Fearless Fortune Hunter
+Error fetching data for Disney's Duck Tales Fearless Fortune Hunter: OMDb error: Movie not found!
+Fetching data for: Disney's Duck Tales High-Flying Hero
+Error fetching data for Disney's Duck Tales High-Flying Hero: OMDb error: Movie not found!
+Fetching data for: District 9
+Fetching data for: Doctor Zhivago
+Fetching data for: Donnie Darko
+Fetching data for: Dr Strangelove
+Fetching data for: Dr. No
+Fetching data for: Dracula
+Fetching data for: Drugstore Cowboy
+Fetching data for: E.T. The Extra-Terrestrial
+Fetching data for: Eddie Murphy - Raw
+Fetching data for: Edward Scissorhands
+Fetching data for: Eight Legged Freaks
+Fetching data for: Elizabeth the Golden Age
+Fetching data for: Encanto
+Fetching data for: Escape From The Planet of the Apes
+Fetching data for: Exit Wounds
+Fetching data for: Eyes Wide Shut
+Fetching data for: Eyes on Mars
+Fetching data for: Felix the Cat - The Movie
+Fetching data for: Fiddler on the Roof
+Fetching data for: Field of Dreams
+Fetching data for: Finding Forrester
+Fetching data for: Fitcarraldo
+Error fetching data for Fitcarraldo: OMDb error: Movie not found!
+Fetching data for: Flags of our Fathers
+Fetching data for: For Love of the Game
+Fetching data for: Friends with Benefits
+Fetching data for: Frosty the Snowman
+Fetching data for: Full Metal Jacket
+Fetching data for: G
+Fetching data for: Game Changer - The Dennis Murphy Story
+Error fetching data for Game Changer - The Dennis Murphy Story: OMDb error: Movie not found!
+Fetching data for: Garden State
+Fetching data for: George Carlin - You Are All Diseased
+Fetching data for: Ghost
+Fetching data for: Ghostbusters
+Fetching data for: Ghostbusters Afterlife
+Fetching data for: Ghostbusters II
+Fetching data for: Ghosts of Mars
+Fetching data for: Gladiator
+Fetching data for: Going Places
+Fetching data for: Goldmember
+Fetching data for: Gone in 60 Seconds
+Fetching data for: Good Will Hunting
+Fetching data for: Goodfellas
+Fetching data for: Gran Torino
+Fetching data for: Gravity
+Fetching data for: Green Lantern
+Fetching data for: Green Zone
+Fetching data for: Grown Ups
+Fetching data for: Guardians of the Galaxy
+Fetching data for: Guardians of the Galaxy vol 2
+Fetching data for: Gumby
+Error fetching data for Gumby: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Fetching data for: Hair
+Fetching data for: Hairspray
+Fetching data for: Hall Pass
+Fetching data for: Hamlet 2
+Fetching data for: Happy Feet
+Fetching data for: Happy Gilmore
+Fetching data for: Hardball
+Fetching data for: Harold & Kumar Escape From Guantanamo Bay
+Fetching data for: Harold & Kumar Go To White Castle
+Fetching data for: Harold and Maude
+Fetching data for: Harry Potter
+Fetching data for: Harry Potter and the Chamber of Secrets
+Fetching data for: Harry Potter and the Deathly Hallows Part 1
+Fetching data for: Harry Potter and the Prisoner of Azkaban
+Fetching data for: Harvey
+Fetching data for: He Got Game
+Fetching data for: He's Just Not That Into You
+Fetching data for: Heartbreakers
+Fetching data for: Hearts of Darkness
+Fetching data for: Heaven Can Wait
+Fetching data for: Heist
+Fetching data for: Hercules
+Fetching data for: High Fidelity
+Fetching data for: Highlander
+Fetching data for: Hollow Man
+Fetching data for: Honey
+Fetching data for: Horton Hears a Who
+Fetching data for: Hostel
+Fetching data for: How The Grinch Stole Christmas (2000)
+Error fetching data for How The Grinch Stole Christmas (2000): OMDb error: Movie not found!
+Fetching data for: How the Grinch Stole Christmas! (1966)
+Error fetching data for How the Grinch Stole Christmas! (1966): OMDb error: Movie not found!
+Fetching data for: How to Lose Friends and Alienate People
+Error fetching data for How to Lose Friends and Alienate People: OMDb error: Movie not found!
+Fetching data for: Ice Age a Mammoth Christmas
+Fetching data for: Idle Hands
+Fetching data for: In Bruges
+Fetching data for: In The Loop
+Fetching data for: Inception {edition-Director's Cut}
+Error fetching data for Inception {edition-Director's Cut}: OMDb error: Movie not found!
+Fetching data for: Independence Day
+Fetching data for: Indiana Jones
+Fetching data for: Inglorious Basterds
+Fetching data for: Interview With the Vampire
+Fetching data for: Into the Wild
+Fetching data for: It's a Wonderful Life
+Fetching data for: Its a Mad Mad Mad Mad World
+Error fetching data for Its a Mad Mad Mad Mad World: OMDb error: Movie not found!
+Fetching data for: Jackass 2
+Error fetching data for Jackass 2: OMDb error: Movie not found!
+Fetching data for: Jackass 3
+Error fetching data for Jackass 3: OMDb error: Movie not found!
+Fetching data for: Jackass 4
+Fetching data for: Jackass Forever
+Fetching data for: Jackass The Movie
+Fetching data for: Jackie Brown
+Fetching data for: James Bond - Casino Royale
+Error fetching data for James Bond - Casino Royale: OMDb error: Movie not found!
+Fetching data for: James Bond Die Another Day
+Fetching data for: James Bond The Spy Who Loved me
+Error fetching data for James Bond The Spy Who Loved me: OMDb error: Movie not found!
+Fetching data for: James Bond Tomorrow Never Dies
+Error fetching data for James Bond Tomorrow Never Dies: OMDb error: Movie not found!
+Fetching data for: Jay and Silent Bob Strike Back
+Fetching data for: Jerry Buss Talks Sports
+Error fetching data for Jerry Buss Talks Sports: OMDb error: Movie not found!
+Fetching data for: Jerry Maguire
+Fetching data for: Jesus Camp
+Fetching data for: Johnny Carson King of Late Night
+Error fetching data for Johnny Carson King of Late Night: OMDb error: Movie not found!
+Fetching data for: Josie and the Pussycats
+Fetching data for: Julie and Julia
+Error fetching data for Julie and Julia: OMDb error: Movie not found!
+Fetching data for: Juno
+Fetching data for: Jurassic Park
+Fetching data for: Jurassic Park III
+Fetching data for: Jurassic Park The Lost World
+Fetching data for: Just Go With It
+Fetching data for: Kick Ass
+Fetching data for: Kill Bill vol 1
+Fetching data for: Kill Bill vol 2
+Fetching data for: King of Kong
+Fetching data for: Knockaround Guys
+Fetching data for: Kung Fu Panda 2
+Fetching data for: L.A. Confidential
+Fetching data for: Lady Sings the Blues
+Fetching data for: Lakeview Terrace
+Fetching data for: Lara Croft Tomb Raider
+Fetching data for: Lawrence of Arabia
+Fetching data for: Layer Cake
+Fetching data for: Leatherheads
+Fetching data for: Lethal Weapon
+Fetching data for: Letters from Iwo Jima
+Fetching data for: Liar Liar
+Fetching data for: Lightyear
+Fetching data for: Like Mike
+Fetching data for: Lilo and Stitch
+Error fetching data for Lilo and Stitch: OMDb error: Movie not found!
+Fetching data for: Lincoln
+Fetching data for: Lions for Lambs
+Fetching data for: Little Nicky
+Fetching data for: Lord of the Rings
+Fetching data for: Lost in Translation
+Fetching data for: Love Actually
+Fetching data for: Love Story
+Fetching data for: M8U4TX~M
+Error fetching data for M8U4TX~M: OMDb error: Movie not found!
+Fetching data for: MASH
+Fetching data for: Mall Rats
+Error fetching data for Mall Rats: OMDb error: Movie not found!
+Fetching data for: Manhunter
+Fetching data for: Marathon Man
+Fetching data for: Marie Antoinette
+Fetching data for: Marley & Me
+Fetching data for: Match Point
+Fetching data for: Maxed Out on Credit
+Error fetching data for Maxed Out on Credit: OMDb error: Movie not found!
+Fetching data for: Meet the Parents
+Fetching data for: Men in Black
+Fetching data for: Men in Black 3
+Fetching data for: Men in Black II
+Fetching data for: Metropolis
+Fetching data for: Mickey's Magical World
+Fetching data for: Midnight Cowboy
+Fetching data for: Midnight in Paris
+Fetching data for: Million Dollar Baby
+Fetching data for: Miracle on 34th Street
+Fetching data for: Miss Congeniality
+Fetching data for: Mission Impossible
+Fetching data for: Mission Impossible 2
+Fetching data for: Mission Impossible 3
+Fetching data for: Mission Impossible Rogue Nation
+Fetching data for: Monsters University
+Fetching data for: Moonraker
+Fetching data for: Mr Baseball
+Fetching data for: Mr. Smith Goes to Washington
+Fetching data for: My Big Fat Greek Wedding
+Fetching data for: My Fair Lady
+Fetching data for: My Fellow Americans
+Fetching data for: Nacho Libre
+Fetching data for: Napoleon
+Fetching data for: Natural Born Killers
+Fetching data for: Neath the Arizona Skies
+Fetching data for: Night at the Museum
+Fetching data for: No Country For Old Men
+Fetching data for: No Reservations
+Fetching data for: Norma Rae
+Fetching data for: North by Northwest
+Fetching data for: Notorious
+Fetching data for: Notting Hill
+Fetching data for: Nowhere Boy
+Fetching data for: Nutty Professor II The Klumps
+Fetching data for: Ocean's 11
+Fetching data for: Ocean's 12
+Error fetching data for Ocean's 12: OMDb error: Movie not found!
+Fetching data for: Ocean's 13
+Error fetching data for Ocean's 13: OMDb error: Movie not found!
+Fetching data for: Oceans
+Fetching data for: On the Road
+Fetching data for: On the Waterfront
+Fetching data for: Once Upon a Time in America
+Fetching data for: Onward
+Fetching data for: Orange County
+Fetching data for: Pan's Labyrinth
+Fetching data for: Passport to Pimlico
+Fetching data for: Patton
+Fetching data for: Paul
+Fetching data for: Paul Blart Mall Cop
+Fetching data for: Pineapple Express
+Fetching data for: Pirates of the Caribbean - At World's End
+Fetching data for: Pirates of the Caribbean - Dead Man's Chest
+Fetching data for: Pirates of the Caribbean - The Curse of the Black Pearl
+Fetching data for: Pirates of the Carribean
+Error fetching data for Pirates of the Carribean: OMDb error: Movie not found!
+Fetching data for: Planet of the Apes (1968)
+Fetching data for: Planet of the Apes (2001)
+Error fetching data for Planet of the Apes (2001): OMDb error: Movie not found!
+Fetching data for: Pokemon The Movie
+Fetching data for: Pokemon the First Movie
+Fetching data for: Pokemon the Movie
+Fetching data for: Porky's 2
+Error fetching data for Porky's 2: OMDb error: Movie not found!
+Fetching data for: Porky's 3
+Error fetching data for Porky's 3: OMDb error: Movie not found!
+Fetching data for: Possession
+Fetching data for: Prancer
+Fetching data for: Precious
+Fetching data for: Pretty Woman
+Fetching data for: Purple Noon
+Fetching data for: Raging Bull
+Fetching data for: Rango
+Fetching data for: Ratatouille
+Fetching data for: Rebel Without a Cause
+Fetching data for: Recess School's Out
+Fetching data for: Red Dragon
+Fetching data for: Remember the Titans
+Fetching data for: Requiem for a Dream
+Fetching data for: Reservoir Dogs
+Fetching data for: Revenge of the Nerds
+Fetching data for: Revenge of the Nerds 2
+Error fetching data for Revenge of the Nerds 2: OMDb error: Movie not found!
+Fetching data for: Revenge of the Nerds 3
+Error fetching data for Revenge of the Nerds 3: OMDb error: Movie not found!
+Fetching data for: Revenge of the Nerds 4
+Error fetching data for Revenge of the Nerds 4: OMDb error: Movie not found!
+Fetching data for: Rio
+Fetching data for: Risky Business
+Fetching data for: Road Trip
+Fetching data for: Robin Hood
+Fetching data for: Rock N Rolla
+Fetching data for: Rocky I
+Error fetching data for Rocky I: OMDb error: Movie not found!
+Fetching data for: Rocky II
+Fetching data for: Rocky III
+Fetching data for: Rocky IV
+Fetching data for: Rocky V
+Fetching data for: Rocky VI Balboa
+Error fetching data for Rocky VI Balboa: OMDb error: Movie not found!
+Fetching data for: Role Models
+Fetching data for: Romancing the Stone
+Fetching data for: Romeo and Juliet
+Fetching data for: Rudolph the Red-Nosed Reindeer
+Fetching data for: Rugrats in Paris
+Fetching data for: Rules of Engagement
+Fetching data for: Rush Hour
+Fetching data for: Rush Hour 2
+Fetching data for: Rush Hour 3
+Fetching data for: Santa Claus is Coming to Town
+Fetching data for: Savages
+Fetching data for: Save The Last Dance
+Fetching data for: Scary Movie
+Fetching data for: Scary Movie 2
+Fetching data for: Scary Movie 3
+Fetching data for: Scary Movie 4
+Fetching data for: Scary Movie 5
+Error fetching data for Scary Movie 5: OMDb error: Movie not found!
+Fetching data for: School of Rock
+Fetching data for: Scooby-Doo
+Fetching data for: Scooby-Doo and the Cyber Chase
+Fetching data for: Scream (1996)
+Fetching data for: Scream (2022)
+Fetching data for: Scream 2
+Fetching data for: Se7en
+Fetching data for: Seabiscuit
+Fetching data for: Searching for Bobby Fischer
+Fetching data for: Searching for Sugar Man
+Fetching data for: Serendipity
+Fetching data for: Shaft (1971)
+Error fetching data for Shaft (1971): OMDb error: Movie not found!
+Fetching data for: Shaft (2000)
+Fetching data for: Shaft (2019)
+Fetching data for: Shag with a Twist
+Error fetching data for Shag with a Twist: OMDb error: Movie not found!
+Fetching data for: Shakespeare In Love
+Fetching data for: Shanghai Noon
+Fetching data for: She's Out of My League
+Fetching data for: Sherlock Holmes
+Fetching data for: Shutter Island
+Fetching data for: Sicko
+Fetching data for: Sin City
+Fetching data for: Singin in the Rain
+Fetching data for: Sir David Frost Watergate Interviews - Richard Nixon
+Error fetching data for Sir David Frost Watergate Interviews - Richard Nixon: OMDb error: Movie not found!
+Fetching data for: Skyfall
+Fetching data for: Sleepover
+Fetching data for: Sleepy Hollow
+Fetching data for: Small Time Crooks
+Fetching data for: Smokin Aces
+Fetching data for: Snatch
+Fetching data for: Snow Dogs
+Fetching data for: Some Girls
+Fetching data for: Some Like it Hot
+Fetching data for: Source Code
+Fetching data for: South Park Bigger Longer and Uncut
+Error fetching data for South Park Bigger Longer and Uncut: OMDb error: Movie not found!
+Fetching data for: Spider-man 2
+Fetching data for: Spider-man 3
+Fetching data for: Spirit Stallion of the Cimarron
+Fetching data for: Spy Game
+Fetching data for: Spy Kids
+Fetching data for: Spy Kids 2
+Fetching data for: Stand By Me
+Fetching data for: Star Trek
+Fetching data for: Star Trek Generations
+Fetching data for: Star Trek Insurrection
+Fetching data for: Star Trek Wrath of Khan
+Error fetching data for Star Trek Wrath of Khan: OMDb error: Movie not found!
+Fetching data for: Star Wars I - The Phantom Menace
+Fetching data for: Star Wars II - Attack of the Clones
+Error fetching data for Star Wars II - Attack of the Clones: OMDb error: Movie not found!
+Fetching data for: Star Wars III - Revenge of the Sith
+Fetching data for: Star Wars IV - A New Hope
+Error fetching data for Star Wars IV - A New Hope: OMDb error: Movie not found!
+Fetching data for: Star Wars V - The Empire Strikes Back
+Error fetching data for Star Wars V - The Empire Strikes Back: OMDb error: Movie not found!
+Fetching data for: Star Wars VI - Return of the Jedi
+Error fetching data for Star Wars VI - Return of the Jedi: OMDb error: Movie not found!
+Fetching data for: Star Wars VII - The Clone Wars
+Error fetching data for Star Wars VII - The Clone Wars: OMDb error: Movie not found!
+Fetching data for: Stargaze
+Error fetching data for Stargaze: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Fetching data for: Starry Night
+Fetching data for: Starship Troopers
+Fetching data for: Stripes
+Fetching data for: Sucker Punch
+Fetching data for: Summer Catch
+Fetching data for: Sunset Blvd
+Fetching data for: Sunset Boulevard
+Fetching data for: Super 8
+Fetching data for: Superbad
+Fetching data for: Superman II
+Fetching data for: Superman III (1983)
+Fetching data for: Superman IV The Quest for Peace (1987)
+Error fetching data for Superman IV The Quest for Peace (1987): OMDb error: Movie not found!
+Fetching data for: Superman Returns (2006)
+Error fetching data for Superman Returns (2006): OMDb error: Movie not found!
+Fetching data for: Superman The Movie (1978)
+Error fetching data for Superman The Movie (1978): OMDb error: Movie not found!
+Fetching data for: Sweeney Todd
+Fetching data for: Swordfish (2001)
+Error fetching data for Swordfish (2001): OMDb error: Movie not found!
+Fetching data for: Talladega Nights
+Fetching data for: Teenage Mutant Ninja Turtles
+Fetching data for: Teenage Mutant Ninja Turtles - Heroes in a Halfshell
+Error fetching data for Teenage Mutant Ninja Turtles - Heroes in a Halfshell: OMDb error: Movie not found!
+Fetching data for: Teenage Mutant Ninja Turtles - The Shredder is Splintered
+Error fetching data for Teenage Mutant Ninja Turtles - The Shredder is Splintered: OMDb error: Movie not found!
+Fetching data for: Teenage Mutant Ninja Turtles II The Secret of the Ooze
+Fetching data for: Terminator II - Judgement Day
+Error fetching data for Terminator II - Judgement Day: OMDb error: Movie not found!
+Fetching data for: Terminator III - The Rise of the Machines
+Error fetching data for Terminator III - The Rise of the Machines: OMDb error: Movie not found!
+Fetching data for: Terminator IV - Terminator Salvation
+Error fetching data for Terminator IV - Terminator Salvation: OMDb error: Movie not found!
+Fetching data for: Texas Chainsaw Massacre (1974)
+Fetching data for: Texas Chainsaw Massacre (2003)
+Fetching data for: Texas Chainsaw Massacre (2022)
+Fetching data for: Thank You For Smoking
+Fetching data for: That's Entertainment
+Fetching data for: The 6th Day
+Fetching data for: The Abyss
+Fetching data for: The Addams Family
+Fetching data for: The Adjustment Bureau
+Fetching data for: The Adventures of Robin Hood
+Fetching data for: The Adventures of Rocky and Bullwinkle
+Error fetching data for The Adventures of Rocky and Bullwinkle: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Fetching data for: The American President
+Fetching data for: The Amsterdam Kill
+Fetching data for: The Avengers
+Fetching data for: The Avengers
+Fetching data for: The Aviator
+Fetching data for: The Batman
+Fetching data for: The Big Chill
+Fetching data for: The Blair Witch Project
+Fetching data for: The Bourne Identity
+Fetching data for: The Bourne Supremacy
+Fetching data for: The Bourne Ultimatum
+Fetching data for: The Bridge on the River Kwai
+Fetching data for: The Bucket List
+Fetching data for: The Bull of the West
+Fetching data for: The Cabin in the Woods
+Fetching data for: The Chumscrubber
+Fetching data for: The Contender
+Fetching data for: The Curious Case of Benjamin Button
+Fetching data for: The Darjeeling Limited
+Fetching data for: The Day The Earth Stood Still
+Fetching data for: The Day of the Dolphin
+Fetching data for: The Debt
+Fetching data for: The Deer Hunter
+Fetching data for: The Departed
+Fetching data for: The Devil Wears Prada
+Fetching data for: The Doors
+Fetching data for: The Dreamers
+Fetching data for: The Emerald Forest
+Fetching data for: The Escapist
+Fetching data for: The Fifth Element
+Fetching data for: The Fighter
+Fetching data for: The Ghost Writer
+Fetching data for: The Girl with the Dragon Tattoo
+Fetching data for: The Godfather Part I
+Error fetching data for The Godfather Part I: OMDb error: Movie not found!
+Fetching data for: The Godfather Part II
+Fetching data for: The Godfather Part III
+Fetching data for: The Good Shepherd
+Fetching data for: The Goonies
+Fetching data for: The Graduate
+Fetching data for: The Grand Budapest Hotel
+Fetching data for: The Great Gatsby
+Fetching data for: The Great Race
+Fetching data for: The Greatest Generation
+Fetching data for: The Greatest Story Ever Told
+Fetching data for: The Guns of Navarone
+Fetching data for: The Hangover
+Fetching data for: The Hangover 2
+Error fetching data for The Hangover 2: OMDb error: Movie not found!
+Fetching data for: The Hangover Part III
+Fetching data for: The High Command
+Fetching data for: The Hot Chick
+Fetching data for: The Hurt Locker
+Fetching data for: The Hustler
+Fetching data for: The Incredible Mr. Limpet
+Fetching data for: The Incredibles
+Fetching data for: The Incredibles 2
+Error fetching data for The Incredibles 2: OMDb error: Movie not found!
+Fetching data for: The Italian Job
+Fetching data for: The Killing Fields
+Fetching data for: The King's Speech
+Fetching data for: The Kite Runner
+Fetching data for: The Ladies Man
+Fetching data for: The Last King of Scotland
+Fetching data for: The Love Guru
+Fetching data for: The Maltese Falcon
+Fetching data for: The Man Who Would be King
+Fetching data for: The Manchurian Candidate
+Fetching data for: The Matrix
+Fetching data for: The Matrix Reloaded
+Fetching data for: The Meaning of Life
+Fetching data for: The Mummy
+Fetching data for: The Mummy Returns
+Fetching data for: The Muppet Movie
+Fetching data for: The Naked Gun From the Files of Police Squad
+Fetching data for: The Natural
+Fetching data for: The New Guy
+Fetching data for: The Passion of the Christ
+Fetching data for: The Pink Panther 2
+Fetching data for: The Place Beyond the Pines
+Fetching data for: The Prestige
+Fetching data for: The Princess and the Frog
+Fetching data for: The Pursuit of Happyness
+Fetching data for: The Queen
+Fetching data for: The Replacements
+Fetching data for: The Rookie
+Error fetching data for The Rookie: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Fetching data for: The Running Man
+Fetching data for: The Salton Sea
+Fetching data for: The Score
+Fetching data for: The Scorpion King
+Fetching data for: The Secret
+Fetching data for: The Secret of NIMH
+Fetching data for: The Shawshank Redemption
+Fetching data for: The Shining
+Fetching data for: The Silence of the Lambs
+Fetching data for: The Simpsons Movie
+Fetching data for: The Sixth Sense
+Fetching data for: The Sleepover
+Fetching data for: The Sting
+Fetching data for: The Sum of All Fears
+Fetching data for: The Theory of Everything
+Fetching data for: The Thin Red Line
+Fetching data for: The Time Machine
+Fetching data for: The Treasure of Sierra Madre
+Error fetching data for The Treasure of Sierra Madre: OMDb error: Movie not found!
+Fetching data for: The Tree of Life
+Fetching data for: The Truman Show
+Fetching data for: The Very Best of the Ed Sullivan Show
+Fetching data for: The Waterboy
+Fetching data for: The Wedding Singer
+Fetching data for: The Whole Nine Yards
+Fetching data for: The Wiz
+Fetching data for: The Wolf of Wall Street
+Fetching data for: The World is Not Enough
+Fetching data for: The Wrestler
+Fetching data for: The X Files
+Fetching data for: The X Files I Want to Believe
+Fetching data for: The men Who Stare at Goats
+Fetching data for: There Will be Blood
+Fetching data for: Thir13en
+Fetching data for: Thirteen Days
+Fetching data for: This is Spinal Tap
+Fetching data for: Three Kings
+Fetching data for: Tim and Eric's Billion Dollar Movie
+Fetching data for: Titanic
+Fetching data for: To Catch a Thief
+Fetching data for: Top Gun Maverick
+Fetching data for: Touch of Evil
+Fetching data for: Toy Story
+Fetching data for: Toy Story 2
+Fetching data for: Toy Story 3
+Fetching data for: Toy Story 4
+Fetching data for: Training Day
+Fetching data for: Tron
+Fetching data for: Tron Legacy
+Fetching data for: Tropic Thunder
+Fetching data for: True Grit
+Fetching data for: Turning Red
+Fetching data for: UP
+Fetching data for: Unbreakable
+Fetching data for: Under Siege
+Fetching data for: Unforgiven
+Fetching data for: Until the End of the World
+Fetching data for: Up in the Air
+Fetching data for: V for Vendetta
+Fetching data for: Van Wilder
+Fetching data for: Vanilla Sky
+Fetching data for: Vertical Limit
+Fetching data for: Vertigo
+Fetching data for: Vicky Cristina Barcelona
+Fetching data for: W
+Error fetching data for W: Movie.__init__() missing 4 required positional arguments: 'DVD', 'BoxOffice', 'Production', and 'Website'
+Fetching data for: Wag The Dog
+Fetching data for: Waiting for Superman
+Fetching data for: Walk Hard the Dewey Cox Story
+Fetching data for: Wall-E
+Fetching data for: War Dance
+Fetching data for: Watchmen Ultimate Cut
+Error fetching data for Watchmen Ultimate Cut: OMDb error: Movie not found!
+Fetching data for: Water for Elephants
+Fetching data for: Wedding Crashers
+Fetching data for: Wet Hot American Summer
+Fetching data for: What Lies Beneath
+Fetching data for: What's Up
+Fetching data for: Whatever Works
+Fetching data for: When Dinosaurs Roamed America
+Fetching data for: When We Were Kings
+Fetching data for: White Christmas
+Fetching data for: White Oleander
+Fetching data for: Who Framed Roger Rabbit
+Fetching data for: Who Killed the Electric Car
+Fetching data for: Willy Wonka and the Chocolate Factory
+Fetching data for: Women Space Pioneers
+Error fetching data for Women Space Pioneers: OMDb error: Movie not found!
+Fetching data for: X-Men
+Fetching data for: You Dont Mess with the Zohan
+Error fetching data for You Dont Mess with the Zohan: OMDb error: Movie not found!
+Fetching data for: Zoolander
+Fetching data for: Zoolander 2
+Fetching data for: xXx
+
+Title: 12 Monkeys
+Year: 1995
+IMDB Rating: 8.0
+
+Title: 127 Hours
+Year: 2010
+IMDB Rating: 7.5
+
+Title: 2012
+Year: 2009
+IMDB Rating: 5.8
+
+Title: 8 Mile
+Year: 2002
+IMDB Rating: 7.2
+
+Title: A Clockwork Orange
+Year: 1971
+IMDB Rating: 8.2
+
+Title: A League of Their Own
+Year: 1992
+IMDB Rating: 7.3
+
+Title: A Night at the Roxbury
+Year: 1998
+IMDB Rating: 6.2
+
+Title: A View to a Kill
+Year: 1985
+IMDB Rating: 6.3
+
+Title: Accepted
+Year: 2006
+IMDB Rating: 6.4
+
+Title: Across the Universe
+Year: 2007
+IMDB Rating: 7.3
+
+Title: Airheads
+Year: 1994
+IMDB Rating: 6.2
+
+Title: Airplane!
+Year: 1980
+IMDB Rating: 7.7
+
+Title: Alfie
+Year: 2004
+IMDB Rating: 6.2
+
+Title: Ali
+Year: 2001
+IMDB Rating: 6.7
+
+Title: Alice in Wonderland
+Year: 2010
+IMDB Rating: 6.4
+
+Title: S06E08 - Aliens - Special Edition (1986)
+Year: 1986
+IMDB Rating: N/A
+
+Title: All About Eve
+Year: 1950
+IMDB Rating: 8.2
+
+Title: All About the Benjamins
+Year: 2002
+IMDB Rating: 5.8
+
+Title: All Dogs Go to Heaven
+Year: 1989
+IMDB Rating: 6.8
+
+Title: All Dogs Go to Heaven 2
+Year: 1996
+IMDB Rating: 5.5
+
+Title: Almost Famous
+Year: 2000
+IMDB Rating: 7.9
+
+Title: American Beauty
+Year: 1999
+IMDB Rating: 8.3
+
+Title: American Gangster
+Year: 2007
+IMDB Rating: 7.8
+
+Title: American Pie 2
+Year: 2001
+IMDB Rating: 6.4
+
+Title: American Wedding
+Year: 2003
+IMDB Rating: 6.3
+
+Title: An American Tail
+Year: 1986
+IMDB Rating: 6.9
+
+Title: Anaconda
+Year: 1997
+IMDB Rating: 4.9
+
+Title: Antitrust
+Year: 2001
+IMDB Rating: 6.1
+
+Title: Apocalypto
+Year: 2006
+IMDB Rating: 7.8
+
+Title: Armageddon
+Year: 1998
+IMDB Rating: 6.7
+
+Title: Atonement
+Year: 2007
+IMDB Rating: 7.8
+
+Title: Austin Powers: International Man of Mystery
+Year: 1997
+IMDB Rating: 7.0
+
+Title: Austin Powers: The Spy Who Shagged Me
+Year: 1999
+IMDB Rating: 6.7
+
+Title: Australia
+Year: 2008
+IMDB Rating: 6.6
+
+Title: Avatar
+Year: 2009
+IMDB Rating: 7.9
+
+Title: Avengers: Age of Ultron
+Year: 2015
+IMDB Rating: 7.3
+
+Title: Avengers: Endgame
+Year: 2019
+IMDB Rating: 8.4
+
+Title: Avengers: Infinity War
+Year: 2018
+IMDB Rating: 8.4
+
+Title: Babes in Toyland
+Year: 1961
+IMDB Rating: 6.1
+
+Title: Baby Mama
+Year: 2008
+IMDB Rating: 6.0
+
+Title: Back to the Future
+Year: 1985
+IMDB Rating: 8.5
+
+Title: Backdraft
+Year: 1991
+IMDB Rating: 6.7
+
+Title: Bad Boys (1995)
+Year: 1995
+IMDB Rating: N/A
+
+Title: Bad Girls from Valley High
+Year: 2005
+IMDB Rating: 3.7
+
+Title: Bad Teacher
+Year: 2011
+IMDB Rating: 5.7
+
+Title: Badlands
+Year: 1973
+IMDB Rating: 7.7
+
+Title: Bao
+Year: 2018
+IMDB Rating: 7.5
+
+Title: Barbershop
+Year: 2002
+IMDB Rating: 6.3
+
+Title: Barry Lyndon
+Year: 1975
+IMDB Rating: 8.1
+
+Title: Basic Instinct
+Year: 1992
+IMDB Rating: 7.1
+
+Title: Batman
+Year: 1989
+IMDB Rating: 7.5
+
+Title: Batman Begins
+Year: 2005
+IMDB Rating: 8.2
+
+Title: Batman Returns
+Year: 1992
+IMDB Rating: 7.1
+
+Title: Batman: The Dark Knight
+Year: 2008
+IMDB Rating: 8.3
+
+Title: Batman: The Dark Knight Returns, Part 2
+Year: 2013
+IMDB Rating: 8.4
+
+Title: Battlefield Earth
+Year: 2000
+IMDB Rating: 2.5
+
+Title: Be Cool
+Year: 2005
+IMDB Rating: 5.6
+
+Title: Bedazzled
+Year: 2000
+IMDB Rating: 6.1
+
+Title: Bee Movie
+Year: 2007
+IMDB Rating: 6.1
+
+Title: Beowulf
+Year: 2007
+IMDB Rating: 6.3
+
+Title: Saturday Night Live: The Best of Chris Farley
+Year: 2000
+IMDB Rating: 8.2
+
+Title: Saturday Night Live: The Best of Dana Carvey
+Year: 1998
+IMDB Rating: 7.4
+
+Title: Beverly Hills Cop
+Year: 1984
+IMDB Rating: 7.4
+
+Title: Beverly Hills Ninja
+Year: 1997
+IMDB Rating: 5.6
+
+Title: Big Daddy
+Year: 1999
+IMDB Rating: 6.4
+
+Title: Big Fat Liar
+Year: 2002
+IMDB Rating: 5.5
+
+Title: Big Fish
+Year: 2003
+IMDB Rating: 8.0
+
+Title: Big Momma's House 2
+Year: 2006
+IMDB Rating: 4.8
+
+Title: Billy Madison
+Year: 1995
+IMDB Rating: 6.4
+
+Title: Bio-Dome
+Year: 1996
+IMDB Rating: 4.4
+
+Title: Black Swan
+Year: 2010
+IMDB Rating: 8.0
+
+Title: Blade
+Year: 1998
+IMDB Rating: 7.1
+
+Title: Blade II
+Year: 2002
+IMDB Rating: 6.7
+
+Title: Blade Runner
+Year: 1982
+IMDB Rating: 8.1
+
+Title: Blades of Glory
+Year: 2007
+IMDB Rating: 6.3
+
+Title: Blazing Saddles
+Year: 1974
+IMDB Rating: 7.7
+
+Title: Blue Streak
+Year: 1999
+IMDB Rating: 6.4
+
+Title: Body of Lies
+Year: 2008
+IMDB Rating: 7.0
+
+Title: Bolt
+Year: 2008
+IMDB Rating: 6.8
+
+Title: Boogie Nights
+Year: 1997
+IMDB Rating: 7.9
+
+Title: Breathless
+Year: 1960
+IMDB Rating: 7.7
+
+Title: Bridget Jones's Diary
+Year: 2001
+IMDB Rating: 6.8
+
+Title: Bring It On
+Year: 2000
+IMDB Rating: 6.1
+
+Title: Bruce Almighty
+Year: 2003
+IMDB Rating: 6.8
+
+Title: Bruno
+Year: 2000
+IMDB Rating: 6.0
+
+Title: Bull Durham
+Year: 1988
+IMDB Rating: 7.0
+
+Title: Bullitt
+Year: 1968
+IMDB Rating: 7.4
+
+Title: Burn After Reading
+Year: 2008
+IMDB Rating: 7.0
+
+Title: Butch Cassidy and the Sundance Kid
+Year: 1969
+IMDB Rating: 8.0
+
+Title: Cabaret
+Year: 1972
+IMDB Rating: 7.8
+
+Title: Caddyshack
+Year: 1980
+IMDB Rating: 7.2
+
+Title: Cars
+Year: 2006
+IMDB Rating: 7.3
+
+Title: Cars 2
+Year: 2011
+IMDB Rating: 6.2
+
+Title: Cars 3
+Year: 2017
+IMDB Rating: 6.7
+
+Title: Casablanca
+Year: 1942
+IMDB Rating: 8.5
+
+Title: Casino
+Year: 1995
+IMDB Rating: 8.2
+
+Title: Cast Away
+Year: 2000
+IMDB Rating: 7.8
+
+Title: Changeling
+Year: 2008
+IMDB Rating: 7.7
+
+Title: Charlie's Angels
+Year: 2000
+IMDB Rating: 5.6
+
+Title: 185 Charlotte's Web (1973) - So Many Tears for a Spider
+Year: 1973
+IMDB Rating: N/A
+
+Title: Chicken Run
+Year: 2000
+IMDB Rating: 7.1
+
+Title: Children of Men
+Year: 2006
+IMDB Rating: 7.9
+
+Title: Chinatown
+Year: 1974
+IMDB Rating: 8.1
+
+Title: Citizen Kane
+Year: 1941
+IMDB Rating: 8.3
+
+Title: Clerks
+Year: 1994
+IMDB Rating: 7.7
+
+Title: Close Encounters of the 4th Kind: Infestation from Mars
+Year: 2004
+IMDB Rating: 4.3
+
+Title: Cloudy with a Chance of Meatballs
+Year: 2009
+IMDB Rating: 6.9
+
+Title: Cloverfield
+Year: 2008
+IMDB Rating: 7.0
+
+Title: Coco
+Year: 2017
+IMDB Rating: 8.4
+
+Title: Collateral Damage
+Year: 2002
+IMDB Rating: 5.5
+
+Title: Conan O'Brien Can't Stop
+Year: 2011
+IMDB Rating: 7.0
+
+Title: Confessions of a Shopaholic
+Year: 2009
+IMDB Rating: 5.9
+
+Title: Contempt
+Year: 1963
+IMDB Rating: 7.4
+
+Title: Crazy, Stupid, Love
+Year: 2022
+IMDB Rating: N/A
+
+Title: Cruel Intentions
+Year: 1999
+IMDB Rating: 6.8
+
+Title: CyberWorld
+Year: 2000
+IMDB Rating: 6.7
+
+Title: Dan in Real Life
+Year: 2007
+IMDB Rating: 6.8
+
+Title: Dances with Wolves
+Year: 1990
+IMDB Rating: 8.0
+
+Title: Dave
+Year: 1993
+IMDB Rating: 6.9
+
+Title: David Blaine: Fearless
+Year: 2002
+IMDB Rating: 7.3
+
+Title: Dazed and Confused
+Year: 1993
+IMDB Rating: 7.6
+
+Title: Dead Poets Society
+Year: 1989
+IMDB Rating: 8.1
+
+Title: Deep Blue Sea
+Year: 1999
+IMDB Rating: 5.9
+
+Title: Deep Blue Sea 2
+Year: 2018
+IMDB Rating: 3.4
+
+Title: Deep Blue Sea 3
+Year: 2020
+IMDB Rating: 4.7
+
+Title: Deliverance
+Year: 1972
+IMDB Rating: 7.6
+
+Title: Dick Tracy
+Year: 1990
+IMDB Rating: 6.2
+
+Title: Die Hard
+Year: 1988
+IMDB Rating: 8.2
+
+Title: Die Hard 4.0: Hacker Underworld
+Year: 2007
+IMDB Rating: 6.3
+
+Title: District 9
+Year: 2009
+IMDB Rating: 7.9
+
+Title: Doctor Zhivago
+Year: 1965
+IMDB Rating: 7.9
+
+Title: Donnie Darko
+Year: 2001
+IMDB Rating: 8.0
+
+Title: TMR 308: Dr Strangelove (1964) (TMR Movie Dialogue)
+Year: 1964
+IMDB Rating: N/A
+
+Title: Dr. No
+Year: 1962
+IMDB Rating: 7.2
+
+Title: Dracula
+Year: 1992
+IMDB Rating: 7.4
+
+Title: Drugstore Cowboy
+Year: 1989
+IMDB Rating: 7.2
+
+Title: E.T. the Extra-Terrestrial
+Year: 1982
+IMDB Rating: 7.9
+
+Title: Eddie Murphy: Raw
+Year: 1987
+IMDB Rating: 7.6
+
+Title: Edward Scissorhands
+Year: 1990
+IMDB Rating: 7.8
+
+Title: Eight Legged Freaks
+Year: 2002
+IMDB Rating: 5.5
+
+Title: Elizabeth: The Golden Age
+Year: 2007
+IMDB Rating: 6.8
+
+Title: Encanto
+Year: 2021
+IMDB Rating: 7.2
+
+Title: Escape from the Planet of the Apes
+Year: 1971
+IMDB Rating: 6.3
+
+Title: Exit Wounds
+Year: 2001
+IMDB Rating: 5.6
+
+Title: Eyes Wide Shut
+Year: 1999
+IMDB Rating: 7.5
+
+Title: Eyes on Mars
+Year: 2003
+IMDB Rating: 6.3
+
+Title: Felix the Cat: The Movie
+Year: 1988
+IMDB Rating: 4.6
+
+Title: Fiddler on the Roof
+Year: 1971
+IMDB Rating: 8.0
+
+Title: Field of Dreams
+Year: 1989
+IMDB Rating: 7.5
+
+Title: Finding Forrester
+Year: 2000
+IMDB Rating: 7.3
+
+Title: Flags of Our Fathers
+Year: 2006
+IMDB Rating: 7.1
+
+Title: For Love of the Game
+Year: 1999
+IMDB Rating: 6.6
+
+Title: Friends with Benefits
+Year: 2011
+IMDB Rating: 6.5
+
+Title: Frosty the Snowman
+Year: 1969
+IMDB Rating: 7.3
+
+Title: Full Metal Jacket
+Year: 1987
+IMDB Rating: 8.2
+
+Title: G
+Year: 1983
+IMDB Rating: 5.3
+
+Title: Garden State
+Year: 2004
+IMDB Rating: 7.4
+
+Title: George Carlin: You Are All Diseased
+Year: 1999
+IMDB Rating: 8.4
+
+Title: Ghost
+Year: 1990
+IMDB Rating: 7.1
+
+Title: Ghostbusters
+Year: 1984
+IMDB Rating: 7.8
+
+Title: Ghostbusters: Afterlife
+Year: 2021
+IMDB Rating: 7.0
+
+Title: Ghostbusters II
+Year: 1989
+IMDB Rating: 6.6
+
+Title: Ghosts of Mars
+Year: 2001
+IMDB Rating: 4.9
+
+Title: Gladiator
+Year: 2000
+IMDB Rating: 8.5
+
+Title: Going Places
+Year: 1974
+IMDB Rating: 7.1
+
+Title: Austin Powers in Goldmember
+Year: 2002
+IMDB Rating: 6.2
+
+Title: Gone in 60 Seconds
+Year: 2000
+IMDB Rating: 6.5
+
+Title: Good Will Hunting
+Year: 1997
+IMDB Rating: 8.3
+
+Title: Goodfellas
+Year: 1990
+IMDB Rating: 8.7
+
+Title: Gran Torino
+Year: 2008
+IMDB Rating: 8.1
+
+Title: Gravity
+Year: 2013
+IMDB Rating: 7.7
+
+Title: Green Lantern
+Year: 2011
+IMDB Rating: 5.5
+
+Title: Green Zone
+Year: 2010
+IMDB Rating: 6.8
+
+Title: Grown Ups
+Year: 2010
+IMDB Rating: 6.0
+
+Title: Guardians of the Galaxy
+Year: 2014
+IMDB Rating: 8.0
+
+Title: Guardians of the Galaxy Vol. 2
+Year: 2017
+IMDB Rating: 7.6
+
+Title: Hair
+Year: 1979
+IMDB Rating: 7.5
+
+Title: Hairspray
+Year: 2007
+IMDB Rating: 6.7
+
+Title: Hall Pass
+Year: 2011
+IMDB Rating: 5.9
+
+Title: Hamlet 2
+Year: 2008
+IMDB Rating: 6.3
+
+Title: Happy Feet
+Year: 2006
+IMDB Rating: 6.4
+
+Title: Happy Gilmore
+Year: 1996
+IMDB Rating: 7.0
+
+Title: Hardball
+Year: 2001
+IMDB Rating: 6.4
+
+Title: Harold & Kumar Escape from Guantanamo Bay
+Year: 2008
+IMDB Rating: 6.5
+
+Title: Harold & Kumar Go to White Castle
+Year: 2004
+IMDB Rating: 7.0
+
+Title: Harold and Maude
+Year: 1971
+IMDB Rating: 7.9
+
+Title: Harry Potter and the Deathly Hallows: Part 2
+Year: 2011
+IMDB Rating: 8.1
+
+Title: Harry Potter and the Chamber of Secrets
+Year: 2002
+IMDB Rating: 7.4
+
+Title: Harry Potter and the Deathly Hallows: Part 1
+Year: 2010
+IMDB Rating: 7.7
+
+Title: Harry Potter and the Prisoner of Azkaban
+Year: 2004
+IMDB Rating: 7.9
+
+Title: Harvey
+Year: 1950
+IMDB Rating: 7.9
+
+Title: He Got Game
+Year: 1998
+IMDB Rating: 6.9
+
+Title: He's Just Not That Into You
+Year: 2009
+IMDB Rating: 6.4
+
+Title: Heartbreakers
+Year: 2001
+IMDB Rating: 6.2
+
+Title: Hearts of Darkness
+Year: 2020
+IMDB Rating: N/A
+
+Title: Heaven Can Wait
+Year: 1978
+IMDB Rating: 6.9
+
+Title: Heist
+Year: 2001
+IMDB Rating: 6.5
+
+Title: Hercules
+Year: 1997
+IMDB Rating: 7.3
+
+Title: High Fidelity
+Year: 2000
+IMDB Rating: 7.4
+
+Title: Highlander
+Year: 1986
+IMDB Rating: 7.0
+
+Title: Hollow Man
+Year: 2000
+IMDB Rating: 5.9
+
+Title: Honey
+Year: 2003
+IMDB Rating: 5.3
+
+Title: Horton Hears a Who!
+Year: 2008
+IMDB Rating: 6.8
+
+Title: Hostel
+Year: 2005
+IMDB Rating: 5.9
+
+Title: Ice Age: A Mammoth Christmas
+Year: 2011
+IMDB Rating: 6.4
+
+Title: Idle Hands
+Year: 1999
+IMDB Rating: 6.3
+
+Title: In Bruges
+Year: 2008
+IMDB Rating: 7.9
+
+Title: In the Loop
+Year: 2009
+IMDB Rating: 7.4
+
+Title: Independence Day
+Year: 1996
+IMDB Rating: 7.0
+
+Title: Indiana Jones and the Last Crusade
+Year: 1989
+IMDB Rating: 8.2
+
+Title: Inglorious Basterds: Stolz der Nation
+Year: 2009
+IMDB Rating: 7.1
+
+Title: Interview with the Vampire
+Year: 1994
+IMDB Rating: 7.5
+
+Title: Into the Wild
+Year: 2007
+IMDB Rating: 8.1
+
+Title: It's a Wonderful Life
+Year: 1946
+IMDB Rating: 8.6
+
+Title: Jackass 4
+Year: 2017
+IMDB Rating: N/A
+
+Title: Jackass Forever
+Year: 2022
+IMDB Rating: 6.8
+
+Title: Jackass: The Movie
+Year: 2002
+IMDB Rating: 6.6
+
+Title: Jackie Brown
+Year: 1997
+IMDB Rating: 7.5
+
+Title: Marks and Spencer James Bond 'Die Another Day' Television Commercial
+Year: 2006
+IMDB Rating: N/A
+
+Title: Jay and Silent Bob Strike Back
+Year: 2001
+IMDB Rating: 6.8
+
+Title: Jerry Maguire
+Year: 1996
+IMDB Rating: 7.3
+
+Title: Jesus Camp
+Year: 2006
+IMDB Rating: 7.4
+
+Title: Josie and the Pussycats
+Year: 2001
+IMDB Rating: 5.6
+
+Title: Juno
+Year: 2007
+IMDB Rating: 7.4
+
+Title: Jurassic Park
+Year: 1993
+IMDB Rating: 8.2
+
+Title: Jurassic Park III
+Year: 2001
+IMDB Rating: 5.9
+
+Title: The Making of 'Jurassic Park: The Lost World'
+Year: 1997
+IMDB Rating: 7.1
+
+Title: Just Go with It
+Year: 2011
+IMDB Rating: 6.4
+
+Title: Kick Ass Girls
+Year: 2013
+IMDB Rating: 3.8
+
+Title: Kill Bill: Vol. 1
+Year: 2003
+IMDB Rating: 8.2
+
+Title: Kill Bill: Vol. 2
+Year: 2004
+IMDB Rating: 8.0
+
+Title: The King of Kong: A Fistful of Quarters
+Year: 2007
+IMDB Rating: 8.0
+
+Title: Knockaround Guys
+Year: 2001
+IMDB Rating: 6.1
+
+Title: Kung Fu Panda 2
+Year: 2011
+IMDB Rating: 7.3
+
+Title: L.A. Confidential
+Year: 1997
+IMDB Rating: 8.2
+
+Title: Lady Sings the Blues
+Year: 1972
+IMDB Rating: 7.0
+
+Title: Lakeview Terrace
+Year: 2008
+IMDB Rating: 6.2
+
+Title: Lara Croft: Tomb Raider
+Year: 2001
+IMDB Rating: 5.8
+
+Title: Lawrence of Arabia
+Year: 1962
+IMDB Rating: 8.3
+
+Title: Layer Cake
+Year: 2004
+IMDB Rating: 7.3
+
+Title: Leatherheads
+Year: 2008
+IMDB Rating: 6.0
+
+Title: Lethal Weapon
+Year: 1987
+IMDB Rating: 7.6
+
+Title: Letters from Iwo Jima
+Year: 2006
+IMDB Rating: 7.8
+
+Title: Liar Liar
+Year: 1997
+IMDB Rating: 6.9
+
+Title: Lightyear
+Year: 2022
+IMDB Rating: 6.1
+
+Title: Like Mike
+Year: 2002
+IMDB Rating: 5.4
+
+Title: Lincoln
+Year: 2012
+IMDB Rating: 7.3
+
+Title: Lions for Lambs
+Year: 2007
+IMDB Rating: 6.2
+
+Title: Little Nicky
+Year: 2000
+IMDB Rating: 5.3
+
+Title: The Lord of the Rings: The Fellowship of the Ring
+Year: 2001
+IMDB Rating: 8.9
+
+Title: Lost in Translation
+Year: 2003
+IMDB Rating: 7.7
+
+Title: Love Actually
+Year: 2003
+IMDB Rating: 7.5
+
+Title: Love Story
+Year: 1970
+IMDB Rating: 6.9
+
+Title: Mash
+Year: 2019
+IMDB Rating: N/A
+
+Title: Manhunter
+Year: 1986
+IMDB Rating: 7.2
+
+Title: Marathon Man
+Year: 1976
+IMDB Rating: 7.4
+
+Title: Marie Antoinette
+Year: 2006
+IMDB Rating: 6.5
+
+Title: Marley & Me
+Year: 2008
+IMDB Rating: 7.0
+
+Title: Match Point
+Year: 2005
+IMDB Rating: 7.6
+
+Title: Meet the Parents
+Year: 2000
+IMDB Rating: 7.0
+
+Title: Men in Black
+Year: 1997
+IMDB Rating: 7.3
+
+Title: E! Online Live from the Red Carpet Men in Black 3
+Year: 2012
+IMDB Rating: 7.9
+
+Title: Men in Black II
+Year: 2002
+IMDB Rating: 6.2
+
+Title: Metropolis
+Year: 1927
+IMDB Rating: 8.3
+
+Title: Mickey's Magical World
+Year: 1988
+IMDB Rating: N/A
+
+Title: Midnight Cowboy
+Year: 1969
+IMDB Rating: 7.8
+
+Title: Midnight in Paris
+Year: 2011
+IMDB Rating: 7.6
+
+Title: Million Dollar Baby
+Year: 2004
+IMDB Rating: 8.1
+
+Title: Miracle on 34th Street
+Year: 1947
+IMDB Rating: 7.9
+
+Title: Miss Congeniality
+Year: 2000
+IMDB Rating: 6.3
+
+Title: Mission: Impossible
+Year: 1996
+IMDB Rating: 7.2
+
+Title: 32. The Making of 'Mission: Impossible 2' (2000), Part 1
+Year: 2000
+IMDB Rating: N/A
+
+Title: Mission Impossible 3 - Prologue Scene (re-adapted)
+Year: 2014
+IMDB Rating: N/A
+
+Title: Mission: Impossible - Rogue Nation
+Year: 2015
+IMDB Rating: 7.4
+
+Title: Monsters University
+Year: 2013
+IMDB Rating: 7.2
+
+Title: Moonraker
+Year: 1979
+IMDB Rating: 6.3
+
+Title: Mr. Baseball
+Year: 1992
+IMDB Rating: 6.0
+
+Title: Mr. Smith Goes to Washington
+Year: 1939
+IMDB Rating: 8.1
+
+Title: My Big Fat Greek Wedding
+Year: 2002
+IMDB Rating: 6.6
+
+Title: My Fair Lady
+Year: 1964
+IMDB Rating: 7.7
+
+Title: My Fellow Americans
+Year: 1996
+IMDB Rating: 6.5
+
+Title: Nacho Libre
+Year: 2006
+IMDB Rating: 5.9
+
+Title: Napoleon
+Year: 2023
+IMDB Rating: 6.3
+
+Title: Natural Born Killers
+Year: 1994
+IMDB Rating: 7.2
+
+Title: 'Neath the Arizona Skies
+Year: 1934
+IMDB Rating: 5.0
+
+Title: Night at the Museum
+Year: 2006
+IMDB Rating: 6.5
+
+Title: No Country for Old Men
+Year: 2007
+IMDB Rating: 8.2
+
+Title: No Reservations
+Year: 2007
+IMDB Rating: 6.3
+
+Title: Norma Rae
+Year: 1979
+IMDB Rating: 7.3
+
+Title: North by Northwest
+Year: 1959
+IMDB Rating: 8.3
+
+Title: Notorious
+Year: 1946
+IMDB Rating: 7.9
+
+Title: Notting Hill
+Year: 1999
+IMDB Rating: 7.2
+
+Title: Nowhere Boy
+Year: 2009
+IMDB Rating: 7.1
+
+Title: Nutty Professor II: The Klumps
+Year: 2000
+IMDB Rating: 4.5
+
+Title: Ocean's 11-Year-Olds
+Year: 2007
+IMDB Rating: 6.7
+
+Title: Oceans
+Year: 2008
+IMDB Rating: 7.7
+
+Title: On the Road
+Year: 2012
+IMDB Rating: 6.0
+
+Title: On the Waterfront
+Year: 1954
+IMDB Rating: 8.1
+
+Title: Once Upon a Time in America
+Year: 1984
+IMDB Rating: 8.3
+
+Title: Onward
+Year: 2020
+IMDB Rating: 7.4
+
+Title: Orange County
+Year: 2002
+IMDB Rating: 6.2
+
+Title: Pan's Labyrinth
+Year: 2006
+IMDB Rating: 8.2
+
+Title: Passport to Pimlico
+Year: 1949
+IMDB Rating: 7.1
+
+Title: Patton
+Year: 1970
+IMDB Rating: 7.9
+
+Title: Paul
+Year: 2011
+IMDB Rating: 6.9
+
+Title: Paul Blart: Mall Cop
+Year: 2009
+IMDB Rating: 5.3
+
+Title: Pineapple Express
+Year: 2008
+IMDB Rating: 6.9
+
+Title: Pirates of the Caribbean: At World's End
+Year: 2007
+IMDB Rating: 7.1
+
+Title: Pirates of the Caribbean: Dead Man's Chest
+Year: 2006
+IMDB Rating: 7.4
+
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Year: 2003
+IMDB Rating: 8.1
+
+Title: Rod Serling Scripts - The Planet Of The Apes (1968) (Live)
+Year: 1968
+IMDB Rating: N/A
+
+Title: Pokémon the Movie 2000
+Year: 1999
+IMDB Rating: 6.1
+
+Title: Pokémon: The First Movie - Mewtwo Strikes Back
+Year: 1998
+IMDB Rating: 6.3
+
+Title: Pokémon the Movie 2000
+Year: 1999
+IMDB Rating: 6.1
+
+Title: Possession
+Year: 1981
+IMDB Rating: 7.3
+
+Title: Prancer
+Year: 1989
+IMDB Rating: 6.4
+
+Title: Precious
+Year: 2009
+IMDB Rating: 7.3
+
+Title: Pretty Woman
+Year: 1990
+IMDB Rating: 7.1
+
+Title: Purple Noon
+Year: 1960
+IMDB Rating: 7.7
+
+Title: Raging Bull
+Year: 1980
+IMDB Rating: 8.1
+
+Title: Rango
+Year: 2011
+IMDB Rating: 7.3
+
+Title: Ratatouille
+Year: 2007
+IMDB Rating: 8.1
+
+Title: Rebel Without a Cause
+Year: 1955
+IMDB Rating: 7.6
+
+Title: Recess: School's Out
+Year: 2001
+IMDB Rating: 6.5
+
+Title: Red Dragon
+Year: 2002
+IMDB Rating: 7.2
+
+Title: Remember the Titans
+Year: 2000
+IMDB Rating: 7.8
+
+Title: Requiem for a Dream
+Year: 2000
+IMDB Rating: 8.3
+
+Title: Reservoir Dogs
+Year: 1992
+IMDB Rating: 8.3
+
+Title: Revenge of the Nerds
+Year: 1984
+IMDB Rating: 6.6
+
+Title: Rio
+Year: 2011
+IMDB Rating: 6.9
+
+Title: Risky Business
+Year: 1983
+IMDB Rating: 6.8
+
+Title: Road Trip
+Year: 2000
+IMDB Rating: 6.5
+
+Title: Robin Hood
+Year: 2010
+IMDB Rating: 6.6
+
+Title: Ecoluxe Rock N Rolla Movie Awards!
+Year: 2022
+IMDB Rating: N/A
+
+Title: Rocky II
+Year: 1979
+IMDB Rating: 7.3
+
+Title: Rocky III
+Year: 1982
+IMDB Rating: 6.8
+
+Title: Rocky IV
+Year: 1985
+IMDB Rating: 6.9
+
+Title: Rocky V
+Year: 1990
+IMDB Rating: 5.4
+
+Title: Role Models
+Year: 2008
+IMDB Rating: 6.8
+
+Title: Romancing the Stone
+Year: 1984
+IMDB Rating: 6.9
+
+Title: Romeo and Juliet
+Year: 1968
+IMDB Rating: 7.6
+
+Title: Rudolph the Red-Nosed Reindeer
+Year: 1964
+IMDB Rating: 8.0
+
+Title: Rugrats in Paris
+Year: 2000
+IMDB Rating: 6.2
+
+Title: Rules of Engagement
+Year: 2000
+IMDB Rating: 6.4
+
+Title: Rush Hour
+Year: 1998
+IMDB Rating: 7.0
+
+Title: Rush Hour 2
+Year: 2001
+IMDB Rating: 6.7
+
+Title: Rush Hour 3
+Year: 2007
+IMDB Rating: 6.2
+
+Title: Santa Claus Is Coming to Town
+Year: 2018
+IMDB Rating: N/A
+
+Title: Savages
+Year: 2012
+IMDB Rating: 6.4
+
+Title: Save the Last Dance
+Year: 2001
+IMDB Rating: 6.2
+
+Title: Scary Movie
+Year: 2000
+IMDB Rating: 6.3
+
+Title: Scary Movie 2
+Year: 2001
+IMDB Rating: 5.4
+
+Title: Scary Movie 3
+Year: 2003
+IMDB Rating: 5.6
+
+Title: Scary Movie 4
+Year: 2006
+IMDB Rating: 5.1
+
+Title: School of Rock
+Year: 2003
+IMDB Rating: 7.2
+
+Title: Scooby-Doo
+Year: 2002
+IMDB Rating: 5.3
+
+Title: Scooby-Doo and the Cyber Chase
+Year: 2001
+IMDB Rating: 7.0
+
+Title: Scream (1996)
+Year: 1996
+IMDB Rating: N/A
+
+Title: Damn You Hollywood: Scream (2022)
+Year: 2022
+IMDB Rating: N/A
+
+Title: Scream 2
+Year: 1997
+IMDB Rating: 6.3
+
+Title: Se7en
+Year: 1995
+IMDB Rating: 8.6
+
+Title: Seabiscuit
+Year: 2003
+IMDB Rating: 7.3
+
+Title: Searching for Bobby Fischer
+Year: 1993
+IMDB Rating: 7.4
+
+Title: Searching for Sugar Man
+Year: 2012
+IMDB Rating: 8.2
+
+Title: Serendipity
+Year: 2001
+IMDB Rating: 6.8
+
+Title: Long Road to Ruin: Shaft (2000) and Shaft (2019)
+Year: 2000
+IMDB Rating: N/A
+
+Title: Long Road to Ruin: Shaft (2000) and Shaft (2019)
+Year: 2000
+IMDB Rating: N/A
+
+Title: Shakespeare in Love
+Year: 1998
+IMDB Rating: 7.1
+
+Title: Shanghai Noon
+Year: 2000
+IMDB Rating: 6.6
+
+Title: She's Out of My League
+Year: 2010
+IMDB Rating: 6.4
+
+Title: Sherlock Holmes
+Year: 2009
+IMDB Rating: 7.6
+
+Title: Shutter Island
+Year: 2010
+IMDB Rating: 8.2
+
+Title: Sicko
+Year: 2007
+IMDB Rating: 8.0
+
+Title: Sin City
+Year: 2005
+IMDB Rating: 8.0
+
+Title: Singin' in the Rain
+Year: 1952
+IMDB Rating: 8.3
+
+Title: Skyfall
+Year: 2012
+IMDB Rating: 7.8
+
+Title: Sleepover
+Year: 2004
+IMDB Rating: 5.3
+
+Title: Sleepy Hollow
+Year: 1999
+IMDB Rating: 7.3
+
+Title: Small Time Crooks
+Year: 2000
+IMDB Rating: 6.7
+
+Title: Smokin' Aces
+Year: 2006
+IMDB Rating: 6.6
+
+Title: Snatch
+Year: 2000
+IMDB Rating: 8.2
+
+Title: Snow Dogs
+Year: 2002
+IMDB Rating: 5.2
+
+Title: Some Girls
+Year: 1988
+IMDB Rating: 5.7
+
+Title: Some Like It Hot
+Year: 1959
+IMDB Rating: 8.2
+
+Title: Source Code
+Year: 2011
+IMDB Rating: 7.5
+
+Title: Spider-Man 2
+Year: 2004
+IMDB Rating: 7.5
+
+Title: Spider-Man 3
+Year: 2007
+IMDB Rating: 6.3
+
+Title: Spirit: Stallion of the Cimarron
+Year: 2002
+IMDB Rating: 7.2
+
+Title: Spy Game
+Year: 2001
+IMDB Rating: 7.1
+
+Title: Spy Kids
+Year: 2001
+IMDB Rating: 5.6
+
+Title: Spy Kids 2: Island of Lost Dreams
+Year: 2002
+IMDB Rating: 5.3
+
+Title: Stand by Me
+Year: 1986
+IMDB Rating: 8.1
+
+Title: Star Trek
+Year: 2009
+IMDB Rating: 7.9
+
+Title: Star Trek: Generations
+Year: 1994
+IMDB Rating: 6.6
+
+Title: Star Trek: Insurrection
+Year: 1998
+IMDB Rating: 6.4
+
+Title: Star Wars I: The Phantom Menace in the Playroom
+Year: 2012
+IMDB Rating: 6.7
+
+Title: World Premiere 'Star Wars III: Revenge of the Sith'
+Year: 2005
+IMDB Rating: 7.9
+
+Title: Starry Night
+Year: 1999
+IMDB Rating: 4.2
+
+Title: Starship Troopers
+Year: 1997
+IMDB Rating: 7.3
+
+Title: Stripes
+Year: 1981
+IMDB Rating: 6.8
+
+Title: Sucker Punch
+Year: 2011
+IMDB Rating: 6.1
+
+Title: Summer Catch
+Year: 2001
+IMDB Rating: 5.1
+
+Title: Sunset Blvd
+Year: 2021
+IMDB Rating: N/A
+
+Title: Sunset Boulevard
+Year: 1950
+IMDB Rating: 8.4
+
+Title: Super 8
+Year: 2011
+IMDB Rating: 7.0
+
+Title: Superbad
+Year: 2007
+IMDB Rating: 7.6
+
+Title: Superman II
+Year: 1980
+IMDB Rating: 6.8
+
+Title: Episode 98 - Superman III (1983) feat. Tyler from TADPOG
+Year: 1983
+IMDB Rating: N/A
+
+Title: Sweeney Todd
+Year: 2006
+IMDB Rating: 6.8
+
+Title: Talladega Nights: The Ballad of Ricky Bobby
+Year: 2006
+IMDB Rating: 6.6
+
+Title: Teenage Mutant Ninja Turtles
+Year: 2014
+IMDB Rating: 5.8
+
+Title: Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+Year: 1991
+IMDB Rating: 6.0
+
+Title: Texas Chainsaw Massacre (1974) - Korim Explains It All
+Year: 1974
+IMDB Rating: N/A
+
+Title: The Texas Chainsaw Massacre (2003)
+Year: 2003
+IMDB Rating: N/A
+
+Title: FRESH CUTS - Texas Chainsaw Massacre (2022)
+Year: 2022
+IMDB Rating: N/A
+
+Title: Thank You for Smoking
+Year: 2005
+IMDB Rating: 7.5
+
+Title: That's Entertainment!
+Year: 1974
+IMDB Rating: 7.8
+
+Title: The 6th Day
+Year: 2000
+IMDB Rating: 5.9
+
+Title: The Abyss
+Year: 1989
+IMDB Rating: 7.5
+
+Title: The Addams Family
+Year: 1991
+IMDB Rating: 7.0
+
+Title: The Adjustment Bureau
+Year: 2011
+IMDB Rating: 7.0
+
+Title: The Adventures of Robin Hood
+Year: 1938
+IMDB Rating: 7.9
+
+Title: The American President
+Year: 1995
+IMDB Rating: 6.8
+
+Title: The Amsterdam Kill
+Year: 1977
+IMDB Rating: 5.3
+
+Title: The Avengers
+Year: 2012
+IMDB Rating: 8.0
+
+Title: The Avengers
+Year: 2012
+IMDB Rating: 8.0
+
+Title: The Aviator
+Year: 2004
+IMDB Rating: 7.5
+
+Title: The Batman
+Year: 2022
+IMDB Rating: 7.8
+
+Title: The Big Chill
+Year: 1983
+IMDB Rating: 7.1
+
+Title: The Blair Witch Project
+Year: 1999
+IMDB Rating: 6.5
+
+Title: The Bourne Identity
+Year: 2002
+IMDB Rating: 7.8
+
+Title: The Bourne Supremacy
+Year: 2004
+IMDB Rating: 7.7
+
+Title: The Bourne Ultimatum
+Year: 2007
+IMDB Rating: 8.0
+
+Title: The Bridge on the River Kwai
+Year: 1957
+IMDB Rating: 8.1
+
+Title: The Bucket List
+Year: 2007
+IMDB Rating: 7.4
+
+Title: The Bull of the West
+Year: 1972
+IMDB Rating: 5.3
+
+Title: The Cabin in the Woods
+Year: 2011
+IMDB Rating: 7.0
+
+Title: The Chumscrubber
+Year: 2005
+IMDB Rating: 6.8
+
+Title: The Contender
+Year: 2000
+IMDB Rating: 6.9
+
+Title: The Curious Case of Benjamin Button
+Year: 2008
+IMDB Rating: 7.8
+
+Title: The Darjeeling Limited
+Year: 2007
+IMDB Rating: 7.2
+
+Title: The Day the Earth Stood Still
+Year: 2008
+IMDB Rating: 5.5
+
+Title: The Day of the Dolphin
+Year: 1973
+IMDB Rating: 6.0
+
+Title: The Debt
+Year: 2010
+IMDB Rating: 6.8
+
+Title: The Deer Hunter
+Year: 1978
+IMDB Rating: 8.1
+
+Title: The Departed
+Year: 2006
+IMDB Rating: 8.5
+
+Title: The Devil Wears Prada
+Year: 2006
+IMDB Rating: 6.9
+
+Title: The Doors
+Year: 1991
+IMDB Rating: 7.2
+
+Title: The Dreamers
+Year: 2003
+IMDB Rating: 7.1
+
+Title: The Emerald Forest
+Year: 1985
+IMDB Rating: 6.9
+
+Title: The Escapist
+Year: 2008
+IMDB Rating: 6.7
+
+Title: The Fifth Element
+Year: 1997
+IMDB Rating: 7.6
+
+Title: The Fighter
+Year: 2010
+IMDB Rating: 7.8
+
+Title: The Ghost Writer
+Year: 2010
+IMDB Rating: 7.2
+
+Title: The Girl with the Dragon Tattoo
+Year: 2011
+IMDB Rating: 7.8
+
+Title: The Godfather Part II
+Year: 1974
+IMDB Rating: 9.0
+
+Title: The Godfather Part III
+Year: 1990
+IMDB Rating: 7.6
+
+Title: The Good Shepherd
+Year: 2006
+IMDB Rating: 6.7
+
+Title: The Goonies
+Year: 1985
+IMDB Rating: 7.7
+
+Title: The Graduate
+Year: 1967
+IMDB Rating: 8.0
+
+Title: The Grand Budapest Hotel
+Year: 2014
+IMDB Rating: 8.1
+
+Title: The Great Gatsby
+Year: 2013
+IMDB Rating: 7.2
+
+Title: The Great Race
+Year: 1965
+IMDB Rating: 7.2
+
+Title: The Greatest Generation
+Year: 2014
+IMDB Rating: N/A
+
+Title: The Greatest Story Ever Told
+Year: 1965
+IMDB Rating: 6.5
+
+Title: The Guns of Navarone
+Year: 1961
+IMDB Rating: 7.5
+
+Title: The Hangover
+Year: 2009
+IMDB Rating: 7.7
+
+Title: The Hangover Part III
+Year: 2013
+IMDB Rating: 5.8
+
+Title: The High Command
+Year: 1937
+IMDB Rating: 6.0
+
+Title: The Hot Chick
+Year: 2002
+IMDB Rating: 5.6
+
+Title: The Hurt Locker
+Year: 2008
+IMDB Rating: 7.5
+
+Title: The Hustler
+Year: 1961
+IMDB Rating: 7.9
+
+Title: The Incredible Mr. Limpet
+Year: 1964
+IMDB Rating: 6.5
+
+Title: The Incredibles
+Year: 2004
+IMDB Rating: 8.0
+
+Title: The Italian Job
+Year: 2003
+IMDB Rating: 7.0
+
+Title: The Killing Fields
+Year: 1984
+IMDB Rating: 7.8
+
+Title: The King's Speech
+Year: 2010
+IMDB Rating: 8.0
+
+Title: The Kite Runner
+Year: 2007
+IMDB Rating: 7.6
+
+Title: The Ladies Man
+Year: 2000
+IMDB Rating: 5.2
+
+Title: The Last King of Scotland
+Year: 2006
+IMDB Rating: 7.6
+
+Title: The Love Guru
+Year: 2008
+IMDB Rating: 3.8
+
+Title: The Maltese Falcon
+Year: 1941
+IMDB Rating: 7.9
+
+Title: The Man Who Would Be King
+Year: 1975
+IMDB Rating: 7.8
+
+Title: The Manchurian Candidate
+Year: 2004
+IMDB Rating: 6.6
+
+Title: The Matrix
+Year: 1999
+IMDB Rating: 8.7
+
+Title: The Matrix Reloaded
+Year: 2003
+IMDB Rating: 7.2
+
+Title: The Meaning of Life
+Year: 2005
+IMDB Rating: 7.2
+
+Title: The Mummy
+Year: 1999
+IMDB Rating: 7.1
+
+Title: The Mummy Returns
+Year: 2001
+IMDB Rating: 6.4
+
+Title: The Muppet Movie
+Year: 1979
+IMDB Rating: 7.6
+
+Title: The Naked Gun: From the Files of Police Squad!
+Year: 1988
+IMDB Rating: 7.6
+
+Title: The Natural
+Year: 1984
+IMDB Rating: 7.4
+
+Title: The New Guy
+Year: 2002
+IMDB Rating: 5.8
+
+Title: The Passion of the Christ
+Year: 2004
+IMDB Rating: 7.2
+
+Title: The Pink Panther 2
+Year: 2009
+IMDB Rating: 5.6
+
+Title: The Place Beyond the Pines
+Year: 2012
+IMDB Rating: 7.3
+
+Title: The Prestige
+Year: 2006
+IMDB Rating: 8.5
+
+Title: The Princess and the Frog
+Year: 2009
+IMDB Rating: 7.2
+
+Title: The Pursuit of Happyness
+Year: 2006
+IMDB Rating: 8.0
+
+Title: The Queen
+Year: 2006
+IMDB Rating: 7.3
+
+Title: The Replacements
+Year: 2000
+IMDB Rating: 6.6
+
+Title: The Running Man
+Year: 1987
+IMDB Rating: 6.6
+
+Title: The Salton Sea
+Year: 2002
+IMDB Rating: 7.0
+
+Title: The Score
+Year: 2001
+IMDB Rating: 6.8
+
+Title: The Scorpion King
+Year: 2002
+IMDB Rating: 5.5
+
+Title: The Secret
+Year: 2006
+IMDB Rating: 5.6
+
+Title: The Secret of NIMH
+Year: 1982
+IMDB Rating: 7.5
+
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+
+Title: The Shining
+Year: 1980
+IMDB Rating: 8.4
+
+Title: The Silence of the Lambs
+Year: 1991
+IMDB Rating: 8.6
+
+Title: The Simpsons Movie
+Year: 2007
+IMDB Rating: 7.3
+
+Title: The Sixth Sense
+Year: 1999
+IMDB Rating: 8.2
+
+Title: The Sleepover
+Year: 2020
+IMDB Rating: 5.7
+
+Title: The Sting
+Year: 1973
+IMDB Rating: 8.3
+
+Title: The Sum of All Fears
+Year: 2002
+IMDB Rating: 6.5
+
+Title: The Theory of Everything
+Year: 2014
+IMDB Rating: 7.7
+
+Title: The Thin Red Line
+Year: 1998
+IMDB Rating: 7.6
+
+Title: The Time Machine
+Year: 2002
+IMDB Rating: 6.0
+
+Title: The Tree of Life
+Year: 2011
+IMDB Rating: 6.8
+
+Title: The Truman Show
+Year: 1998
+IMDB Rating: 8.2
+
+Title: The Very Best of the Ed Sullivan Show
+Year: 1991
+IMDB Rating: 8.9
+
+Title: The Waterboy
+Year: 1998
+IMDB Rating: 6.2
+
+Title: The Wedding Singer
+Year: 1998
+IMDB Rating: 6.9
+
+Title: The Whole Nine Yards
+Year: 2000
+IMDB Rating: 6.7
+
+Title: The Wiz
+Year: 1978
+IMDB Rating: 5.5
+
+Title: The Wolf of Wall Street
+Year: 2013
+IMDB Rating: 8.2
+
+Title: The World Is Not Enough
+Year: 1999
+IMDB Rating: 6.4
+
+Title: The Wrestler
+Year: 2008
+IMDB Rating: 7.9
+
+Title: The X Files
+Year: 1998
+IMDB Rating: 7.0
+
+Title: The X Files: I Want to Believe
+Year: 2008
+IMDB Rating: 5.9
+
+Title: The Men Who Stare at Goats
+Year: 2009
+IMDB Rating: 6.2
+
+Title: There Will Be Blood
+Year: 2007
+IMDB Rating: 8.2
+
+Title: Thir13en Ghosts
+Year: 2001
+IMDB Rating: 5.6
+
+Title: Thirteen Days
+Year: 2000
+IMDB Rating: 7.3
+
+Title: This Is Spinal Tap
+Year: 1984
+IMDB Rating: 7.9
+
+Title: Three Kings
+Year: 1999
+IMDB Rating: 7.1
+
+Title: Tim and Eric's Billion Dollar Movie
+Year: 2012
+IMDB Rating: 5.3
+
+Title: Titanic
+Year: 1997
+IMDB Rating: 7.9
+
+Title: To Catch a Thief
+Year: 1955
+IMDB Rating: 7.4
+
+Title: Top Gun: Maverick
+Year: 2022
+IMDB Rating: 8.2
+
+Title: Touch of Evil
+Year: 1958
+IMDB Rating: 8.0
+
+Title: Toy Story
+Year: 1995
+IMDB Rating: 8.3
+
+Title: Toy Story 2
+Year: 1999
+IMDB Rating: 7.9
+
+Title: Toy Story 3
+Year: 2010
+IMDB Rating: 8.3
+
+Title: Toy Story 4
+Year: 2019
+IMDB Rating: 7.6
+
+Title: Training Day
+Year: 2001
+IMDB Rating: 7.8
+
+Title: Tron
+Year: 1982
+IMDB Rating: 6.7
+
+Title: Tron: Legacy
+Year: 2010
+IMDB Rating: 6.8
+
+Title: Tropic Thunder
+Year: 2008
+IMDB Rating: 7.1
+
+Title: True Grit
+Year: 2010
+IMDB Rating: 7.6
+
+Title: Turning Red
+Year: 2022
+IMDB Rating: 6.9
+
+Title: Up
+Year: 2009
+IMDB Rating: 8.3
+
+Title: Unbreakable
+Year: 2000
+IMDB Rating: 7.3
+
+Title: Under Siege
+Year: 1992
+IMDB Rating: 6.5
+
+Title: Unforgiven
+Year: 1992
+IMDB Rating: 8.2
+
+Title: Until the End of the World
+Year: 1991
+IMDB Rating: 6.8
+
+Title: Up in the Air
+Year: 2009
+IMDB Rating: 7.4
+
+Title: V for Vendetta
+Year: 2005
+IMDB Rating: 8.1
+
+Title: Van Wilder
+Year: 2002
+IMDB Rating: 6.4
+
+Title: Vanilla Sky
+Year: 2001
+IMDB Rating: 6.9
+
+Title: Vertical Limit
+Year: 2000
+IMDB Rating: 6.0
+
+Title: Vertigo
+Year: 1958
+IMDB Rating: 8.3
+
+Title: Vicky Cristina Barcelona
+Year: 2008
+IMDB Rating: 7.1
+
+Title: Wag the Dog
+Year: 1997
+IMDB Rating: 7.1
+
+Title: Waiting for Superman
+Year: 2010
+IMDB Rating: 7.4
+
+Title: Walk Hard: The Dewey Cox Story
+Year: 2007
+IMDB Rating: 6.8
+
+Title: The Ultimate 'WALL-E' Recap Cartoon
+Year: 2022
+IMDB Rating: N/A
+
+Title: War Dance
+Year: 2007
+IMDB Rating: 7.8
+
+Title: Water for Elephants
+Year: 2011
+IMDB Rating: 6.9
+
+Title: Wedding Crashers
+Year: 2005
+IMDB Rating: 7.0
+
+Title: Wet Hot American Summer
+Year: 2001
+IMDB Rating: 6.5
+
+Title: What Lies Beneath
+Year: 2000
+IMDB Rating: 6.6
+
+Title: What's Up, Doc?
+Year: 1972
+IMDB Rating: 7.7
+
+Title: Whatever Works
+Year: 2009
+IMDB Rating: 7.1
+
+Title: When Dinosaurs Roamed America
+Year: 2001
+IMDB Rating: 7.5
+
+Title: When We Were Kings
+Year: 1996
+IMDB Rating: 7.9
+
+Title: White Christmas
+Year: 1954
+IMDB Rating: 7.6
+
+Title: White Oleander
+Year: 2002
+IMDB Rating: 7.1
+
+Title: Who Framed Roger Rabbit
+Year: 1988
+IMDB Rating: 7.7
+
+Title: Who Killed the Electric Car?
+Year: 2006
+IMDB Rating: 7.6
+
+Title: Tom and Jerry: Willy Wonka and the Chocolate Factory
+Year: 2017
+IMDB Rating: 4.6
+
+Title: X-Men
+Year: 2000
+IMDB Rating: 7.3
+
+Title: Zoolander
+Year: 2001
+IMDB Rating: 6.5
+
+Title: Zoolander 2
+Year: 2016
+IMDB Rating: 4.7
+
+Title: xXx
+Year: 2002
+IMDB Rating: 5.8
+Wrote 585 records to /Users/ericmelz/Data/code/synutil/source/movie_finder/data/mine_needs_imdb.jsonl
+
+Process finished with exit code 0

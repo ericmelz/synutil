@@ -24,7 +24,7 @@ TOP_MARGIN = 0.5
 BOTTOM_MARGIN = 0.5
 
 # Regex to remove IMDB in braces (e.g., " {imdb-tt2024544}")
-IMDB_REGEX = re.compile(r"\s*\{imdb-[^}]+\}")
+m
 
 
 def clean_title(filename):
