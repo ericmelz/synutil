@@ -168,9 +168,51 @@ def example3():
 
 
 def example4():
-    # TODO: read jsonl
-    pass
+    movies = read_movies_jsonl(jsonl_file='/Users/ericmelz/Data/code/synutil/source/movie_finder/data/theirs.jsonl')
+    for movie in movies:
+        print(f"\nTitle: {movie.Title}")
+        print(f"Year: {movie.Year}")
+        print(f"IMDB Rating: {movie.imdbRating}")
+
+
+def example5():
+    movies = read_movies_jsonl(jsonl_file='/Users/ericmelz/Data/code/synutil/source/movie_finder/data/theirs.jsonl')
+    titles = {movie.Title for movie in movies}
+
+    csv_file = '/Users/ericmelz/Data/code/synutil/source/movie_finder/data/theirs.csv'
+
+    # Determine new movies
+    new_titles = []
+    with open(csv_file, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+
+        for row in reader:
+            title = row[0]  # Assuming title is in the first column
+            if title not in titles:
+                print(f"New movie found: {title}")
+                new_titles.append(title)
+
+    # Fetch new movies
+    new_movies = []
+    for title in new_titles:
+        print(f"Fetching data for: {title}")
+        data = fetch_movie_from_omdb(title, Settings().omdb_api_key)
+        ratings = [Rating(**r) for r in data.pop("Ratings")]
+        new_movie = Movie(Ratings=ratings, **data)
+        new_movies.append(new_movie)
+        sleep(0.5)
+
+    # open the JSONL output file for writing
+    out_path = '/Users/ericmelz/Data/code/synutil/source/movie_finder/data/theirs2.jsonl'
+    with open(out_path, 'w', encoding='utf-8') as out_f:
+        for movie in new_movies:
+            # convert dataclass (with nested Ratings) to plain dict
+            movie_dict = dataclasses.asdict(movie)
+            # write as a single JSON line
+            out_f.write(json.dumps(movie_dict, ensure_ascii=False) + "\n")
+
+    print(f"Wrote {len(new_movies)} records to {out_path}")
 
 
 if __name__ == '__main__':
-    example4()
+    example5()

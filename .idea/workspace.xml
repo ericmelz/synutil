@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b99c0c5-724a-404b-865d-d71216119f72" name="Changes" comment="starting work on finder.py">
+    <list default="true" id="0b99c0c5-724a-404b-865d-d71216119f72" name="Changes" comment="write jsonl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/movie_finder/data/theirs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/movie_finder/data/theirs.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/movie_finder/finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/movie_finder/finder.py" afterDir="false" />
@@ -59,6 +59,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/movie_finder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/movie_finder/data" />
     </key>
   </component>
   <component name="RunManager" selected="Python.finder">
@@ -147,7 +150,7 @@
       <workItem from="1747082830087" duration="89000" />
       <workItem from="1747148808553" duration="2000" />
       <workItem from="1747337341942" duration="89000" />
-      <workItem from="1747435755804" duration="4798000" />
+      <workItem from="1747435755804" duration="8406000" />
     </task>
     <task id="LOCAL-00001" summary="Initial version">
       <created>1738443154411</created>
@@ -178,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747438246939</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="write jsonl">
+      <option name="closed" value="true" />
+      <created>1747443575029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747443575029</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,10 +200,11 @@
     <MESSAGE value="added placeholders to checkin directories" />
     <MESSAGE value="tweak font size etc" />
     <MESSAGE value="starting work on finder.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting work on finder.py" />
+    <MESSAGE value="write jsonl" />
+    <option name="LAST_COMMIT_MESSAGE" value="write jsonl" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/synutil$finder.coverage" NAME="finder Coverage Results" MODIFIED="1747442892034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/movie_finder" />
+    <SUITE FILE_PATH="coverage/synutil$finder.coverage" NAME="finder Coverage Results" MODIFIED="1747448782291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/movie_finder" />
     <SUITE FILE_PATH="coverage/synutil$printer.coverage" NAME="printer Coverage Results" MODIFIED="1747337371884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/movie_printer" />
   </component>
 </project>
