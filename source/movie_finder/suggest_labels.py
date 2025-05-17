@@ -18,6 +18,7 @@ from pydantic_settings import BaseSettings
 
 IMDB_TAG_RE = re.compile(r'\s*\{imdb-[^\}]+\}$', re.IGNORECASE)
 MINE_NEEDS_IMDB = '/Users/ericmelz/Data/code/synutil/source/movie_finder/data/mine_needs_imdb.jsonl'
+MOVIES_FOLDER = '/Volumes/video-1/movies'
 
 
 class Settings(BaseSettings):
@@ -101,23 +102,53 @@ def llm_match(name: str, movies: List[Dict]) -> Optional[Dict]:
     return None
 
 
+def suggest_new_name(folder: str, movie: Dict) -> str:
+    return f"{folder} {{imdb-{movie['imdbID']}}}"
+
+
+def prompt_accept(default_name: str) -> Optional[str]:
+    while True:
+        resp = input(f"Rename to \"{default_name}\"? [y/n/q] ").strip().lower()
+        if resp == 'y':
+            return default_name
+        elif resp == 'n':
+            new_name = input("Enter new folder name or leave blank to skip): ").strip()
+            return new_name or None
+        elif resp == 'q':
+            print("Quitting.")
+            exit(0)
+        else:
+            print("Please enter 'y' to accept, 'n' to enter a custom name, or 'q' to quit.")
+
+
 def main():
-    settings = Settings()
     movies = load_movies(MINE_NEEDS_IMDB)
+    for entry in sorted(os.listdir(MOVIES_FOLDER)):
+        full_path = os.path.join(MOVIES_FOLDER, entry)
+        if not os.path.isdir(full_path):
+            continue
+        if IMDB_TAG_RE.search(full_path):
+            continue  # already tagged
 
-    print("BEST MATCH")
-    movie = find_best_match("one hundred twenty seven hours", movies)
-    if movie:
-        print(json.dumps(movie, indent=2))
-    else:
-        print("No matches found")
+        movie = find_best_match(entry, movies)
+        if not movie:
+            movie = llm_match(entry, movies)
 
-    print("\n\nLLM MATCH")
-    movie = llm_match("one hundred twenty seven hours", movies)
-    if movie:
-        print(json.dumps(movie, indent=2))
-    else:
-        print("No matches found")
+        if not movie:
+            print(f"No match for '{entry}'.  Skipping.")
+            continue
+
+        suggestion = suggest_new_name(entry, movie)
+        chosen = prompt_accept(suggestion)
+        if not chosen:
+            print(f"Skipping '{entry}'.")
+            continue
+
+        new_path = os.path.join(MOVIES_FOLDER, chosen)
+        if os.path.exists(new_path):
+            print(f"Cannot rename: target {new_path!r} already exists.")
+        # os.rename(full_path, new_path)
+        print(f"Successfully renamed {entry!r} → '{chosen!r}'.")
 
 
 if __name__ == '__main__':

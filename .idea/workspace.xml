@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b99c0c5-724a-404b-865d-d71216119f72" name="Changes" comment="work on data">
-      <change afterPath="$PROJECT_DIR$/source/movie_finder/suggest_labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="0b99c0c5-724a-404b-865d-d71216119f72" name="Changes" comment="partial implementation of suggest_labels.py">
+      <change beforePath="$PROJECT_DIR$/source/movie_finder/suggest_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/movie_finder/suggest_labels.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +175,7 @@
       <workItem from="1747148808553" duration="2000" />
       <workItem from="1747337341942" duration="89000" />
       <workItem from="1747435755804" duration="9563000" />
-      <workItem from="1747495756624" duration="12702000" />
+      <workItem from="1747495756624" duration="13547000" />
     </task>
     <task id="LOCAL-00001" summary="Initial version">
       <created>1738443154411</created>
@@ -232,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747499254669</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="partial implementation of suggest_labels.py">
+      <option name="closed" value="true" />
+      <created>1747509647254</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747509647254</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,10 +251,11 @@
     <MESSAGE value="starting work on finder.py" />
     <MESSAGE value="write jsonl" />
     <MESSAGE value="work on data" />
-    <option name="LAST_COMMIT_MESSAGE" value="work on data" />
+    <MESSAGE value="partial implementation of suggest_labels.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="partial implementation of suggest_labels.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/synutil$suggest_labels.coverage" NAME="suggest_labels Coverage Results" MODIFIED="1747509620916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/movie_finder" />
+    <SUITE FILE_PATH="coverage/synutil$suggest_labels.coverage" NAME="suggest_labels Coverage Results" MODIFIED="1747509859441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/movie_finder" />
     <SUITE FILE_PATH="coverage/synutil$finder.coverage" NAME="finder Coverage Results" MODIFIED="1747498647194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/movie_finder" />
     <SUITE FILE_PATH="coverage/synutil$printer.coverage" NAME="printer Coverage Results" MODIFIED="1747337371884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/movie_printer" />
   </component>
